@@ -1,4 +1,4 @@
-bq#,title,comp_date,composer,dates,arranger,instrumentation,state,ui_library,digitized,notes
+BQ#,Title,Comp Date,Composer,Dates,Arranger,Instrumentation,State,UI Library,Digitized?,Notes
 ,Sonata,1922,"Poulenc, Francis",,,"Trio (horn, trpt in C or Bb, trbn)",orig,,y,
 ,La Fiesta,,Guentzel,,,"Sextet (2 Bb cornet, hn, trbn, brtn, tuba)",orig,,y,brtn has bass or treble clef parts
 ,Tower Music,,Beckerath,,,"Sextet (3 trpt, 3 trbn)",orig,,y,"additional horn part, not orig"
