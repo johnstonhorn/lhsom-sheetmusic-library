@@ -1,5 +1,13 @@
 field,display_name
-title,Title
+Title,Title
 Composer,Composer
 Arranger,Arranger
 Publisher,Publisher
+Envelope,Envelope
+Score Type,Score Type
+PlayingTime,Playing Time
+Comments,Comments
+Library,Library
+Drawer,Drawer
+Copies,Copies
+Performance Date,Performance Date

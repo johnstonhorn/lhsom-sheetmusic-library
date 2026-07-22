@@ -1,11 +1,13 @@
-field,display_name,browse_link,external_link
-title,Title,
-Composer,Composer,true,
-Arranger,Arranger,true,
-Publisher,Publisher,true,
-Envelope,Envelope,
-Score Type (full/cond/oversize),Score Type,	
-Missing Parts?,Missing Parts?,
-PlayingTime,Playing Time,
-Comments,Comments
-Library,Library,
+field,display_name,btn,hidden,sort_name
+Composer,Composer,true,,Composer
+Arranger,Arranger,true,,
+Publisher,Publisher,,,
+Title,Title,true,,Title
+Envelope,Envelope,,,
+Score Type,Score Type,,,
+PlayingTime,Playing Time,,,
+Comments,Comments,,,
+Library,Library,,,
+Drawer,Drawer,,,
+Copies,Copies,,,
+Performance Date,Performance Date,,,

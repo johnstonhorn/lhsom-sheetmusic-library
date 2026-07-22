@@ -1,34 +1,45 @@
-# CollectionBuilder-Sheets
+# U of I Music Library - Sheet Music Catalog
 
-CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
-This enables live collaboration to prototype collections with minimal set up.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (*or built automatically and hosted for free on GitHub Pages!*).
+A digital collection of sheet music held by the Lionel Hampton School of Music at the University of Idaho.
 
-Visit the [CB-Sheets demo site](https://collectionbuilder.github.io/collectionbuilder-sheets/) to see it in action and even test your own metadata!
+## Browse the Collection
 
-To learn more check [docs/sheets-metadata.md](docs/sheets-metadata.md) or visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections.
+Visit the live site: https://johnstonhorn.github.io/music-library/
 
-Note that CB-Sheets is based on and mostly compatible with [CollectionBuilder-GH](https://github.com/CollectionBuilder/collectionbuilder-gh), but handles the metadata parsing in a fundamentally different way. 
+## About This Project
 
-----------
+This site was built using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template for creating simple digital exhibit websites powered by metadata from CSV files.
 
-## CollectionBuilder 
+### Collection Contents
 
-<https://collectionbuilder.github.io/>
+- **Choral**: 2,703 entries
+- **Wind Bands**: 2,322 entries
+- **Orchestra**: 990 entries
+- **Brass Quintet**: 1,074 entries
+- **Brass Ensembles**: 40 entries
+- **Wind Quintet**: 82 entries
+- **Trombone Ensemble**: 66 entries
+- **Horn Ensemble**: 18 entries
+- **Flute Ensemble**: 30 entries
 
-CollectionBuilder is a project of University of Idaho Library's [Digital Initiatives](https://www.lib.uidaho.edu/digital/) and the [Center for Digital Inquiry and Learning](https://cdil.lib.uidaho.edu) (CDIL) following the [Lib-Static](https://lib-static.github.io/) methodology. 
-Powered by the open source static site generator [Jekyll](https://jekyllrb.com/) and a modern static web stack, it puts collection metadata to work building beautiful sites.
+## Maintenance
 
-The basic theme is created using [Bootstrap](https://getbootstrap.com/).
-Metadata visualizations are built using open source libraries such as [DataTables](https://datatables.net/), [Leafletjs](http://leafletjs.com/), [Spotlight gallery](https://github.com/nextapps-de/spotlight), [lazysizes](https://github.com/aFarkas/lazysizes), and [Lunr.js](https://lunrjs.com/).
-Object metadata is exposed using [Schema.org](http://schema.org) and [Open Graph protocol](http://ogp.me/) standards.
+The metadata is maintained in the `data/` directory as CSV files. To update the collection:
 
-Questions can be directed to **collectionbuilder.team@gmail.com**
+1. Edit the CSV files in the `data/` directory
+2. Commit and push changes
+3. GitHub Pages will automatically rebuild the site
 
-## License
+## Technical Details
 
-CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
-This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
-CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-gh/blob/main/LICENSE). 
-This license does not include external dependencies included in the `assets/lib` directory, which are covered by their individual licenses.
+- **Framework**: CollectionBuilder-Sheets (Jekyll-based)
+- **Deployment**: GitHub Pages
+- **Data Source**: CSV files in `data/` directory
+
+## Credits
+
+Built with [CollectionBuilder](https://collectionbuilder.github.io/), a project of University of Idaho Library's Digital Initiatives and the Center for Digital Inquiry and Learning (CDIL).
+
+---
+
+*For questions about this collection, please contact the Lionel Hampton School of Music.*
