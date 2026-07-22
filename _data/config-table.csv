@@ -1,5 +1,5 @@
 field,display_name
-Title,Title
+title,title
 Composer,Composer
 Arranger,Arranger
 Publisher,Publisher
@@ -11,3 +11,4 @@ Library,Library
 Drawer,Drawer
 Copies,Copies
 Performance Date,Performance Date
+Missing Parts?,Missing Parts?

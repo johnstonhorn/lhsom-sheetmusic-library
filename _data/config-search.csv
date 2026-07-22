@@ -1,5 +1,5 @@
 field,index,display
-Title,true,true
+title,true,true
 Composer,true,true
 Arranger,true,true
 Publisher,true,true
@@ -11,3 +11,4 @@ Library,true,false
 Drawer,true,false
 Copies,true,false
 Performance Date,true,false
+Missing Parts?,true,false

@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
 Composer,Composer,true,,Composer
 Arranger,Arranger,true,,
+title,title,true,,title
 Publisher,Publisher,,,
-Title,Title,true,,Title
 Envelope,Envelope,,,
 Score Type,Score Type,,,
 PlayingTime,Playing Time,,,
@@ -11,3 +11,4 @@ Library,Library,,,
 Drawer,Drawer,,,
 Copies,Copies,,,
 Performance Date,Performance Date,,,
+Missing Parts?,Missing Parts?,,,

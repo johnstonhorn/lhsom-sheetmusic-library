@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-Title,Title,true,
+title,title,true,
 Composer,Composer,true,
 Arranger,Arranger,true,
 Publisher,Publisher,true,
@@ -11,3 +11,4 @@ Library,Library,,
 Drawer,Drawer,,
 Copies,Copies,,
 Performance Date,Performance Date,,
+Missing Parts?,Missing Parts?,,
