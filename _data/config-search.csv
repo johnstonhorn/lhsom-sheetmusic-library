@@ -1,5 +1,13 @@
 field,index,display
-title,true,true
+Title,true,true
 Composer,true,true
 Arranger,true,true
 Publisher,true,true
+Envelope,true,false
+Score Type,true,false
+PlayingTime,true,false
+Comments,true,false
+Library,true,false
+Drawer,true,false
+Copies,true,false
+Performance Date,true,false
