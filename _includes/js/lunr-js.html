@@ -23,8 +23,9 @@ function lunr_search () {
             '<p class="h4"><a href="' + itemHref + '">' + cb_items[ref][{{ fields[0].field | jsonify }}]  + '</a></p>' +
             '<p class="ms-3">';
               {% else %}
-              if(cb_items[ref][{{ d.field | jsonify }}]) {
-                searchitem += cb_items[ref][{{ d.field | jsonify }}] + '<br> '; }
+              var fieldValue = cb_items[ref][{{ d.field | jsonify }}];
+              if (!fieldValue || fieldValue === '') { fieldValue = 'none'; }
+              searchitem += '{{ d.display_name }}: ' + fieldValue + '<br> ';
               {% endif %}{% endfor %}
               searchitem += '</p></td>' +
       '</tr>';
