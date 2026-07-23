@@ -19,15 +19,9 @@ Have you purchased new sheet music for the Lionel Hampton School of Music librar
 
 <div style="max-width: 800px; margin: 20px 0;">
 
-<!-- Embed Microsoft Form here - replace the URL below with your actual form URL -->
-<!-- 
-     To get the embed code:
-     1. Open your Microsoft Form
-     2. Click "Send" → "< >" (embed) tab
-     3. Copy the iframe code and paste it below, replacing this comment
--->
-
-<iframe src="YOUR_MICROSOFT_FORM_URL_HERE" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0" style="border: 1px solid #ccc; border-radius: 8px;" title="Sheet Music Submission Form">Loading form...</iframe>
+<!-- Microsoft Form embed code -->
+<iframe width="100%" height="800" src="https://forms.cloud.microsoft/r/kHYNg9vqqN?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen title="Sheet Music Submission Form">
+</iframe>
 
 </div>
 
@@ -51,5 +45,3 @@ If you have questions about the submission process, contact the Music Library at
 ---
 
 **Note:** All submissions are reviewed before being added to the public catalog to ensure accuracy and completeness.
-
-**Built with Microsoft Forms** - Part of the University of Idaho's Microsoft 365 campus license.
