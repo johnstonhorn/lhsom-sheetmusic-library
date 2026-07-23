@@ -13,14 +13,18 @@ This site was built using [CollectionBuilder-Sheets](https://github.com/Collecti
 ### Collection Contents
 
 - **Choral**: 2,703 entries
-- **Wind Bands**: 2,322 entries
-- **Orchestra**: 990 entries
+- **Wind Ensemble**: 2,322 entries
 - **Brass Quintet**: 1,074 entries
-- **Brass Ensembles**: 40 entries
+- **Orchestra**: 990 entries
+- **Marching Band**: 826 entries
 - **Wind Quintet**: 82 entries
 - **Trombone Ensemble**: 66 entries
-- **Horn Ensemble**: 18 entries
+- **Percussion Ensemble**: 65 entries
+- **Brass Ensembles**: 40 entries
 - **Flute Ensemble**: 30 entries
+- **Horn Ensemble**: 18 entries
+
+**Total: 8,216 entries**
 
 ## Maintenance
 
