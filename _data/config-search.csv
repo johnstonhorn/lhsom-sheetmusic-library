@@ -3,7 +3,7 @@ title,true,true
 Composer,true,true
 Arranger,true,true
 Publisher,true,true
-Library,true,true
+Library,Ensemble Type,true,true
 Envelope,true,false
 Score Type,true,false
 PlayingTime,true,false
