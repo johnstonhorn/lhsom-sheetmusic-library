@@ -3,11 +3,12 @@ title,title
 Composer,Composer
 Arranger,Arranger
 Publisher,Publisher
+Library,Ensemble Type
+Location,Location
 Envelope,Envelope
 Score Type,Score Type
 PlayingTime,Playing Time
 Comments,Comments
-Library,Library
 Drawer,Drawer
 Copies,Copies
 Performance Date,Performance Date

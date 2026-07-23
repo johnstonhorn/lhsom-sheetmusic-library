@@ -3,11 +3,12 @@ Composer,Composer,true,,Composer
 Arranger,Arranger,true,,
 title,title,true,,title
 Publisher,Publisher,,,
+Library,Ensemble Type,true,,Library
+Location,Location,true,,Location
 Envelope,Envelope,,,
 Score Type,Score Type,,,
 PlayingTime,Playing Time,,,
 Comments,Comments,,,
-Library,Library,,,
 Drawer,Drawer,,,
 Copies,Copies,,,
 Performance Date,Performance Date,,,

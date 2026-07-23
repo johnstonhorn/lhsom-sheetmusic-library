@@ -4,6 +4,7 @@ Composer,true,true
 Arranger,true,true
 Publisher,true,true
 Library,Ensemble Type,true,true
+Location,true,true
 Envelope,true,false
 Score Type,true,false
 PlayingTime,true,false

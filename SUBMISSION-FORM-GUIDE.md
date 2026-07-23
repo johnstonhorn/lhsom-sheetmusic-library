@@ -24,13 +24,14 @@ This guide walks you through creating a Microsoft Form for users to submit newly
 | 2 | **Composer** (Last, First format) | Text | ✅ Yes | Short answer |
 | 3 | **Arranger** (if applicable) | Text | No | Short answer |
 | 4 | **Ensemble Type** | Choice | ✅ Yes | Dropdown: Wind Ensemble, Orchestra, Choral, Marching Band, Percussion Ensemble, Brass Quintet, Brass Ensembles, Wind Quintet, Trombone Ensemble, Horn Ensemble, Flute Ensemble |
-| 5 | **Publisher** | Text | No | Short answer |
-| 6 | **Envelope/Call Number** | Text | No | Short answer |
-| 7 | **Number of Copies** | Text | No | Short answer (or Number type) |
-| 8 | **Score Type** | Choice | No | Dropdown: Full Score, Condensed Score, Oversized, N/A |
-| 9 | **Playing Time** | Text | No | Short answer (e.g., "3:45" or "approx. 4 min") |
-| 10 | **Missing Parts?** | Choice | No | Dropdown: Yes, No, Not Applicable |
-| 11 | **Comments** | Text | No | Long answer / Paragraph |
+| 5 | **Location** | Choice | ✅ Yes | Dropdown: LHSOM Library, Main Library |
+| 6 | **Publisher** | Text | No | Short answer |
+| 7 | **Envelope/Call Number** | Text | No | Short answer |
+| 8 | **Number of Copies** | Text | No | Short answer (or Number type) |
+| 9 | **Score Type** | Choice | No | Dropdown: Full Score, Condensed Score, Oversized, N/A |
+| 10 | **Playing Time** | Text | No | Short answer (e.g., "3:45" or "approx. 4 min") |
+| 11 | **Missing Parts?** | Choice | No | Dropdown: Yes, No, Not Applicable |
+| 12 | **Comments** | Text | No | Long answer / Paragraph |
 
 ### Form Settings:
 - Click the **three dots (...)** → **Settings**

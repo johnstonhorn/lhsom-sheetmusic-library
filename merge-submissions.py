@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """
-Merge approved sheet music submissions from Google Sheets into the main catalog.
+Merge approved sheet music submissions from Microsoft Forms/Excel into the main catalog.
 
 Usage:
     python3 merge-submissions.py
 
 This script:
 1. Reads the main catalog (data/entire_library.csv)
-2. Reads approved submissions (data/submissions.csv - export from Google Sheets)
+2. Reads approved submissions (data/submissions.csv - export from Excel)
 3. Merges them, generating unique objectids
 4. Outputs the merged catalog to data/entire_library.csv
 """
@@ -18,7 +18,7 @@ from datetime import datetime
 
 # Configuration
 CATALOG_FILE = "data/entire_library.csv"
-SUBMISSIONS_FILE = "data/submissions.csv"  # Export approved rows from Google Sheets
+SUBMISSIONS_FILE = "data/submissions.csv"  # Export approved rows from Excel
 OUTPUT_FILE = "data/entire_library.csv"
 
 # Column mapping (form question → CSV header)
@@ -27,6 +27,7 @@ COLUMN_MAPPING = {
     "Composer": "Composer",
     "Arranger": "Arranger",
     "Ensemble Type": "Library",
+    "Location": "Location",
     "Publisher": "Publisher",
     "Envelope/Call Number": "Envelope",
     "Number of Copies": "Copies",
@@ -40,7 +41,7 @@ COLUMN_MAPPING = {
 MASTER_HEADERS = [
     'objectid', 'Library', 'Composer', 'Arranger', 'title', 'Drawer',
     'Envelope', 'Copies', 'Score Type', 'Publisher', 'Performance Date',
-    'PlayingTime', 'Score (Full/Cond/Oversized)', 'Missing Parts?', 'Comments'
+    'PlayingTime', 'Score (Full/Cond/Oversized)', 'Missing Parts?', 'Comments', 'Location'
 ]
 
 
@@ -69,10 +70,10 @@ def load_catalog():
 
 
 def load_submissions():
-    """Load approved submissions from Google Sheets export."""
+    """Load approved submissions from Excel export."""
     if not os.path.exists(SUBMISSIONS_FILE):
         print(f"No submissions file found at {SUBMISSIONS_FILE}")
-        print("Place your Google Sheets export as 'data/submissions.csv'")
+        print("Place your Excel export as 'data/submissions.csv'")
         return []
 
     with open(SUBMISSIONS_FILE, 'r', encoding='utf-8') as f:
@@ -84,7 +85,7 @@ def load_submissions():
 
 
 def map_submission(submission, start_id):
-    """Map a Google Forms submission to catalog format."""
+    """Map a Microsoft Forms submission to catalog format."""
     mapped = {h: '' for h in MASTER_HEADERS}
 
     # Map form fields to CSV headers
@@ -155,18 +156,26 @@ def main():
     if new_entries:
         print("\nNew entries summary:")
         libraries = {}
+        locations = {}
         for entry in new_entries:
             lib = entry.get('Library', 'Unknown')
+            loc = entry.get('Location', 'Unknown')
             libraries[lib] = libraries.get(lib, 0) + 1
+            locations[loc] = locations.get(loc, 0) + 1
+
+        print("  By Ensemble Type:")
         for lib, count in sorted(libraries.items()):
-            print(f"  {lib}: {count}")
+            print(f"    {lib}: {count}")
+        print("  By Location:")
+        for loc, count in sorted(locations.items()):
+            print(f"    {loc}: {count}")
 
     print("\nNext steps:")
     print("1. Review the merged catalog in data/entire_library.csv")
     print("2. Commit the changes: git add data/entire_library.csv")
     print("3. Commit with message: '[data] Add N new compositions from submission form'")
     print("4. Push to GitHub: git push origin main")
-    print("5. Mark processed entries as 'PROCESSED' in your Google Sheet")
+    print("5. Mark processed entries as 'PROCESSED' in your Excel sheet")
 
 
 if __name__ == "__main__":
