@@ -40,7 +40,7 @@ Have you purchased new sheet music for the Lionel Hampton School of Music librar
 
 ### Questions?
 
-If you have questions about the submission process, contact the Music Library at [your-email@uidaho.edu](mailto:your-email@uidaho.edu).
+If you have questions about the submission process, contact the Music Library at [jjohnston@uidaho.edu](mailto:jjohnston@uidaho.edu).
 
 ---
 
