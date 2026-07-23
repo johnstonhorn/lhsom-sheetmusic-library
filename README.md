@@ -4,7 +4,7 @@ A digital collection of sheet music held by the Lionel Hampton School of Music a
 
 ## Browse the Collection
 
-Visit the live site: https://johnstonhorn.github.io/music-library/
+Visit the live site: https://johnstonhorn.github.io/lhsom-sheetmusic-library/
 
 ## About This Project
 
