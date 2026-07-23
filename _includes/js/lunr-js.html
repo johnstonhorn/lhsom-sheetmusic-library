@@ -25,7 +25,7 @@ function lunr_search () {
               {% else %}
               var fieldValue = cb_items[ref][{{ d.field | jsonify }}];
               if (!fieldValue || fieldValue === '') { fieldValue = 'none'; }
-              searchitem += '{{ d.field | capitalize }}: ' + fieldValue + '<br> ';
+              searchitem += '{{ d.display_name }}: ' + fieldValue + '<br> ';
               {% endif %}{% endfor %}
               searchitem += '</p></td>' +
       '</tr>';
