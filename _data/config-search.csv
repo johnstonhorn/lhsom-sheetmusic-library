@@ -1,15 +1,15 @@
-field,index,display
-title,true,true
-Composer,true,true
-Arranger,true,true
-Publisher,true,true
+field,display_name,index,display
+title,Title,true,true
+Composer,Composer,true,true
+Arranger,Arranger,true,true
+Publisher,Publisher,true,true
 Library,Ensemble Type,true,true
-Location,true,true
-Envelope,true,false
-Score Type,true,false
-PlayingTime,true,false
-Comments,true,false
-Drawer,true,false
-Copies,true,false
-Performance Date,true,false
-Missing Parts?,true,false
+Location,Location,true,true
+Envelope,Envelope,true,false
+Score Type,Score Type,true,false
+PlayingTime,Playing Time,true,false
+Comments,Comments,true,false
+Drawer,Drawer,true,false
+Copies,Copies,true,false
+Performance Date,Performance Date,true,false
+Missing Parts?,Missing Parts?,true,false
