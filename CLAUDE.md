@@ -5,6 +5,18 @@ Guidance for any AI agent (Claude Code, or another model via a launcher) working
 > **This is a PUBLIC repository.** Keep it free of personal, private, or institution-sensitive
 > content. Do not reference private infrastructure, personal notes, or non-public data here.
 
+## Automation & non-primary AI sessions (review-gated)
+
+This repo is a **public product maintained from a private hub**, so all changes here are
+**review-gated** — a maintainer reviews and publishes them.
+
+If you are a **non-primary session** (an AI agent driven by a non-Anthropic model through a
+launcher, rather than the maintainer's own primary Claude), then in this repo you **do your work
+and save it locally, but do not `git push`.** Leave a clear commit message or note describing what
+you changed, and leave publishing to the maintainer's primary review session. Direct pushes from a
+non-primary session are also **blocked mechanically** by a pre-push guard — this note is the intent
+behind that block, not a way around it.
+
 ## What this is
 
 A digital catalog of sheet music held by the **Lionel Hampton School of Music (LHSOM)**,
