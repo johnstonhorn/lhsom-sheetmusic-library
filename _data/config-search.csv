@@ -13,3 +13,9 @@ Drawer,Drawer,true,false
 Copies,Copies,true,false
 Performance Date,Performance Date,true,false
 Missing Parts?,Missing Parts?,true,false
+Voicing,Voicing,true,true
+Instrumentation,Instrumentation,true,true
+Season,Season,true,false
+Catalog Number,Catalog Number,true,false
+Digitized,Digitized,true,false
+Condition,Condition,true,false
