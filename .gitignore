@@ -8,3 +8,6 @@ __pycache__/
 # Data backups & Jekyll build output
 *.bak
 _site/
+
+# Editor settings (local only — this repo is PUBLIC)
+.vscode/
