@@ -7,3 +7,132 @@
 .btn-outline-primary, .btn-outline-pride-gold {
     color: #191919;
 }
+
+
+/* ==========================================================================
+   LHSOM branding — black and Vandal gold
+   Matches the LHSOM NASM Self-Study site: a near-black ground, gold reserved
+   as an accent for titles, rules, and the primary action. Colors come from
+   _data/config-theme-colors.csv; the fallbacks keep the build safe if that
+   CSV is ever emptied.
+   ========================================================================== */
+
+$lhsom-gold: if(variable-exists(pride-gold), $pride-gold, #F1B300);
+$lhsom-black: if(variable-exists(black-color), $black-color, #191919);
+
+/* --- Home banner ---------------------------------------------------------
+   The photographic banner and its dark overlay stay; the title goes gold. */
+
+#home-title-box {
+    .display-4 {
+        color: $lhsom-gold;
+        font-weight: 700;
+        letter-spacing: -0.015em;
+    }
+    p {
+        color: #fff;
+        letter-spacing: 0.02em;
+    }
+}
+
+/* --- Section headings ----------------------------------------------------
+   The signature move from the self-study: a gold rule beneath the heading,
+   spanning the content width. Applied to page titles and card titles so
+   interior pages and the home page read as one system. */
+
+@mixin lhsom-gold-rule($weight: 2px, $gap: 0.4rem) {
+    border-bottom: $weight solid $lhsom-gold;
+    padding-bottom: $gap;
+    margin-bottom: 1rem;
+}
+
+.card-title {
+    @include lhsom-gold-rule(2px, 0.4rem);
+    color: $lhsom-black;
+}
+
+/* Content headings on interior pages: the markdown `##` headings on About and
+   Metadata, and the JS-filled item title on item pages.
+   Note: both banner h1s live in collection-banner.html, which default.html
+   includes OUTSIDE <main> — so a `main h1` rule would reach no page heading at
+   all, only modal titles. h2 is where this theme's real headings are.
+   Exclusions: .card-title is styled above; .visually-hidden is the
+   screen-reader-only map heading; .accordion-header belongs to the
+   development-mode setup modal. */
+main h2:not(.card-title):not(.visually-hidden):not(.accordion-header) {
+    @include lhsom-gold-rule(3px, 0.5rem);
+    color: $lhsom-black;
+    font-weight: 700;
+}
+
+/* --- Card headers --------------------------------------------------------
+   Optional `header=` variant of the featured-terms include: a black bar with
+   gold type, matching the self-study's panel headers. */
+
+.card-header {
+    background-color: $lhsom-black;
+    color: $lhsom-gold;
+    border-bottom: 2px solid $lhsom-gold;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+}
+
+/* --- Cards ---------------------------------------------------------------
+   Squared corners and a hairline border, closer to the documentation feel
+   than Bootstrap's default rounded cards. */
+
+.card {
+    border-radius: 0;
+    border: 1px solid rgba($lhsom-black, 0.15);
+}
+
+/* --- Navbar --------------------------------------------------------------
+   Already bg-dark / navbar-dark via _data/theme.yml; add the gold hover and
+   the gold active marker used by the self-study sidebar. */
+
+.navbar-dark .navbar-nav {
+    .nav-link:hover,
+    .nav-link:focus {
+        color: $lhsom-gold;
+    }
+    .nav-link.active,
+    .show > .nav-link {
+        color: $lhsom-gold;
+        box-shadow: inset 0 -3px 0 $lhsom-gold;
+    }
+}
+
+/* --- Buttons -------------------------------------------------------------
+   Gold is the primary action; everything secondary is a dark outline that
+   fills gold on hover. Keeps gold meaningful instead of decorative. */
+
+.btn-pride-gold {
+    font-weight: 600;
+    letter-spacing: 0.02em;
+}
+
+.btn-outline-dark {
+    &:hover,
+    &:focus {
+        background-color: $lhsom-gold;
+        border-color: $lhsom-gold;
+        color: $lhsom-black;
+    }
+}
+
+/* --- Link affordance -----------------------------------------------------
+   _base.scss strips underlines from every link site-wide, leaving body links
+   distinguished by color alone — WCAG 1.4.1 (Use of Color). Restore the
+   underline for prose links only: inside paragraphs and list items, never on
+   anything rendered as a button.
+   Nav and footer links are untouched because both includes sit outside
+   <main>; the .btn exclusion covers the featured-term links, the browse-card
+   facet links, and the home page's call-to-action buttons, all of which are
+   anchors carrying .btn. */
+
+main p a:not(.btn),
+main li a:not(.btn) {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+}

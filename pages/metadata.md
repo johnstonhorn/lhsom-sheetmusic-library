@@ -9,7 +9,7 @@ permalink: /metadata.html
 CollectionBuilder-Sheets loads and parses a metadata CSV directly to create your digital collection pages.
 To create metadata compatible with this CollectionBuilder-Sheets instance the best way to get started is to make of copy of our template in Google Drive:
 
-[CollectionBuilder Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy?usp=sharing){:.btn .btn-outline-success}
+[CollectionBuilder Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy?usp=sharing){:.btn .btn-outline-dark}
 {:.text-center}
 
 Alternatively, you can [download the template CSV]({{ '/assets/metadata-template.csv' | relative_url }}) and work on your local machine.
@@ -19,7 +19,7 @@ Describe your items in your copy of the template, following the [guidelines belo
 
 Once you have items added you can test your metadata using the Config modal:
 
-<button class="btn btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">Change the Metadata!</button>
+<button class="btn btn-outline-dark" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">Change the Metadata!</button>
 
 ----------
 
