@@ -37,11 +37,18 @@ COLUMN_MAPPING = {
     "Comments": "Comments"
 }
 
-# Master headers (matching existing catalog format)
+# Master headers -- must match data/entire_library.csv exactly and in order.
+# DictWriter is constructed from this list, and its default extrasaction is
+# 'raise', so any catalog column missing here makes the merge crash outright.
+# It previously omitted seven columns that the catalog already had
+# (format, Voicing, Instrumentation, Digitized, Condition, Season,
+# Catalog Number), which meant this script could not run at all.
 MASTER_HEADERS = [
-    'objectid', 'Library', 'Composer', 'Arranger', 'title', 'Drawer',
-    'Envelope', 'Copies', 'Score Type', 'Publisher', 'Performance Date',
-    'PlayingTime', 'Score (Full/Cond/Oversized)', 'Missing Parts?', 'Comments', 'Location'
+    'objectid', 'format', 'Library', 'Composer', 'Arranger', 'title', 'Drawer',
+    'Envelope', 'Folder', 'Copies', 'Score Type', 'Publisher', 'Performance Date',
+    'PlayingTime', 'Score (Full/Cond/Oversized)', 'Missing Parts?', 'Comments',
+    'Location', 'Voicing', 'Instrumentation', 'Digitized', 'Condition', 'Season',
+    'Catalog Number'
 ]
 
 
@@ -84,6 +91,36 @@ def load_submissions():
     return rows
 
 
+def folder_value(row):
+    """Derive the unified 'Folder' locator from the per-ensemble columns.
+
+    The catalog records a score's folder number in a different column
+    depending on ensemble: Choral and Brass Quintet use 'Catalog Number'
+    (their source sheet column is literally 'Folder/Catalogue #'), Wind
+    Ensemble and the small ensembles use 'Envelope', Orchestra uses 'Drawer',
+    and Marching Band and Percussion use both -- so keep both rather than
+    dropping half the location.
+
+    A value only counts if it contains a digit: some rows carry text that was
+    mis-mapped into 'Envelope' when the per-ensemble sheets were merged
+    (Trombone Ensemble holds "Quartet", Flute Ensemble holds instrumentation),
+    and that must not be published as a folder number.
+    """
+    pick = lambda v: v if (v and any(ch.isdigit() for ch in v)) else ''
+    d = pick((row.get('Drawer') or '').strip())
+    e = pick((row.get('Envelope') or '').strip())
+    c = pick((row.get('Catalog Number') or '').strip())
+    if d and e:
+        return f"Drawer {d} · {e}"
+    if c:
+        return c
+    if e:
+        return e
+    if d:
+        return f"Drawer {d}"
+    return ""
+
+
 def map_submission(submission, start_id):
     """Map a Microsoft Forms submission to catalog format."""
     mapped = {h: '' for h in MASTER_HEADERS}
@@ -100,6 +137,11 @@ def map_submission(submission, start_id):
         mapped['Missing Parts?'] = 'Yes'
     elif mapped['Missing Parts?'] == 'No':
         mapped['Missing Parts?'] = 'No'
+
+    # Derive the unified Folder locator from whichever column the form filled
+    # ("Envelope/Call Number" maps to Envelope), so new submissions show a
+    # folder in search results like the rest of the catalog.
+    mapped['Folder'] = folder_value(mapped)
 
     # Generate objectid
     mapped['objectid'] = f'id_{start_id}'

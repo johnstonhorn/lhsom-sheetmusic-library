@@ -5,6 +5,7 @@ Arranger,Arranger,true,true
 Publisher,Publisher,true,true
 Library,Ensemble Type,true,true
 Location,Location,true,true
+Folder,Folder,true,true
 Envelope,Envelope,true,false
 Score Type,Score Type,true,false
 PlayingTime,Playing Time,true,false
