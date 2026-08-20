@@ -1997,8 +1997,8 @@ id_1995,record,Choral,Anonymous,"Bennett, Robert","Columbia, The Gem of the Ocea
 id_1996,record,Choral,Anonymous,,Rejoice in the Lord Alway,,,1618,35,,Oxford,,,,,,LHSOM Library,SATB,A cappella,,,"Text Philippians 4:4-7, anthem",1618
 id_1997,record,Choral,"Antes, John","Nolte, Ewald V.",How Beautiful Upon the Mountains,,,2469,2,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Organ,,,,2469
 id_1998,record,Choral,"Arcadelt, Jacob",,Ave Maria (in F),,,5,32,,C.C. Birchard &,,,,,,LHSOM Library,SATB,A cappella,,,,5
-id_1999,record,Choral,"Arcadelt, Jacob","Greyson, Norman",Ave Maria,,,,9,,Bourne Inc,,,,,,LHSOM Library,TTBB,Piano,,,,
-id_2000,record,Choral,"Arcadelt, Jacob","Greyson, Norman",Ave Maria,,,,9,,Bourne,,,,,,LHSOM Library,SSA,Piano,,,,
+id_1999,record,Choral,"Arcadelt, Jacob","Greyson, Norman",Ave Maria,,,2157,9,,Bourne Inc,,,,,,LHSOM Library,TTBB,Piano,,,,2157
+id_2000,record,Choral,"Arcadelt, Jacob","Greyson, Norman",Ave Maria,,,2267,9,,Bourne,,,,,,LHSOM Library,SSA,Piano,,,,2267
 id_2001,record,Choral,"Arcadelt, Jacques",,Hail Age of Pure gold (Acco D'Oro L'Eta),,,7,56,,Music Press,,,,,,LHSOM Library,SATB,a cappella,,,Madrigal,7
 id_2002,record,Choral,"Arcadelt, Jacques","Malin, Don",Rare is Such Goodness,,,1593,5,,Marks Music,,,,,,LHSOM Library,SATB,A cappella,,,Madrigal,1593
 id_2003,record,Choral,"Arcadelt, Jacques","Echols, Paul",Margot Labourez Les Vignes,,,2470,2,,McAfee,,,,,,LHSOM Library,SATB,A cappella,,,,2470
@@ -2057,7 +2057,7 @@ id_2055,record,Choral,"Bach, J.S.","Snodgrass, Louise",Bouree,,,2241,20,,Harold 
 id_2056,record,Choral,"Bach, J.S.","Doebele, Alexa","Nimm Mich Mir (from ""Nur jedem das Seine"")",,,2367,30,,Colla Voce,,,,,,LHSOM Library,SA,"Basso continuo, violin",,,,2367
 id_2057,record,Choral,"Bach, J.S.","Williams, Bennett","Bourree For Bach (from ""2nd English Suite"")",,,2409,2,,Sam Fox,,,,,,LHSOM Library,SATB,"String bass, snare drum",,,,2409
 id_2058,record,Choral,"Bach, J.S.","Gilbert, Nina",Sinfonia in D,,,2414,10,,Mark Foster,,,,,,LHSOM Library,TBB,A cappella,,,Vocal-adapted keyboard,2414
-id_2059,record,Choral,"Bach, J.S.",,"Lobet den Herrn, alle Heiden",,,,,,No info,,,,,,LHSOM Library,SATB,,,,Motet,
+id_2059,record,Choral,"Bach, J.S.",,"Lobet den Herrn, alle Heiden",,,2426,,,No info,,,,,,LHSOM Library,SATB,,,,Motet,2426
 id_2060,record,Choral,"Bach, J.S.","Luvaas, Morten J.","Come, Holy Spirit",,,2501,2,,C.C. Birchard,,,,,,LHSOM Library,SATB,A cappella,,,,2501
 id_2061,record,Choral,"Bach, J.S.",,"Come, O Lord, With Gladness/Now Thank We All Our God",,,2502,2,,M. Whitmark,,,,,,LHSOM Library,SATB,A cappella,,,,2502
 id_2062,record,Choral,"Bach, J.S.",,The Spirit Also Helpeth Us,,,2601,51,,H.W. Gray,,,,,,LHSOM Library,SATB,Orchestra,,,Extended Work,2601
@@ -2081,7 +2081,7 @@ id_2079,record,Choral,"Bach, J.S.",,"“Sleeper's wake!"" A voice is sounding",,
 id_2080,record,Choral,"Bach, J.S.",,Magnificat in D Major,,,2603,30,,"Barenreiter, Schirmer, Edition Peters",,,,,,LHSOM Library,SATB,"Organ score included, orchestra parts in brown box on bottom shelf at the end of the choral shelves",,,Extended Work,2603
 id_2081,record,Choral,"Bach, J.S.",,St. John Passion,,,2604,17,,"Kalmus, Schirmer, H.W. Gray",,,,,,LHSOM Library,SATB,Orchestra parts in separate marked box,,,Extended Work,2604
 id_2082,record,Choral,"Bach, J.S.",,Johannes Passion,,,1099,40,,Kalmus,,,,,,LHSOM Library,SATB,Each envelop has one part,,,"Extended, oratorio",1099
-id_2083,record,Choral,"Bach, J.S.",,"Lobet den Herrn, alle Heiden",,,,,,Collgium Music,,,,,,LHSOM Library,SATB,,,,Motet,
+id_2083,record,Choral,"Bach, J.S.",,"Lobet den Herrn, alle Heiden",,,1982,,,Collgium Music,,,,,,LHSOM Library,SATB,,,,Motet,1982
 id_2084,record,Choral,"Bach, J.S.",,Forty Bach Chorales,,,511,6,,CPDL,,,,,,LHSOM Library,SATB,Keyboard,,,Collection,511
 id_2085,record,Choral,"Bach, Johann S.","Bartle, Jean Ashworth",Suscepit Israel,,,2345,24,,Hinshaw,,,,,,LHSOM Library,SSA,Piano,,,,2345
 id_2086,record,Choral,"Bach, P.D.Q./Schickele",,Good King Kong Looked Out,,,1435,30,,Theodore Presser,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,1435
@@ -2183,9 +2183,9 @@ id_2181,record,Choral,"Billings, William","Parker, Alice & Shaw, Robert",When Je
 id_2182,record,Choral,"Billings, William","Daniel, Oliver","Bird, The",,,66,60,,C.C. Birchard &,,,,,,LHSOM Library,SATB,Piano,,,,66
 id_2183,record,Choral,"Billings, William","Daniel, Oliver","The Shepard's Carol: ""Shiloh""",,,67,47,,C.C. Birchard & Co.,,,,,,LHSOM Library,SATB,a cappella,,,Christmas,67
 id_2184,record,Choral,"Billings, William",,I Am the Rose of Sharon,,,84,1,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Anthem,84
-id_2185,record,Choral,"Billings, William","Dickinson, Clarence",A Virgin Unspotted,,,,,,Music Press,,,,,,LHSOM Library,SATB,A cappella,,,,
-id_2186,record,Choral,"Billings, William",,A Virgin Unspotted,,,,,,Walton Music Corp,,,,,,LHSOM Library,SATB,A cappella,,,,
-id_2187,record,Choral,"Billings, William",,A Virgin Unspotted,,,,,,Walton Music,,,,,,LHSOM Library,SATB,A cappella,,,,
+id_2185,record,Choral,"Billings, William","Dickinson, Clarence",A Virgin Unspotted,,,239,,,Music Press,,,,,,LHSOM Library,SATB,A cappella,,,,239
+id_2186,record,Choral,"Billings, William",,A Virgin Unspotted,,,1928,,,Walton Music Corp,,,,,,LHSOM Library,SATB,A cappella,,,,1928
+id_2187,record,Choral,"Billings, William",,A Virgin Unspotted,,,1928,,,Walton Music,,,,,,LHSOM Library,SATB,A cappella,,,,1928
 id_2188,record,Choral,"Billings, William","Dickinson, Clarence",Three Fuguing Tunes,,,68,40,,Music Press,,,,,,LHSOM Library,SATB,Piano,,,,68
 id_2189,record,Choral,"Billingsly, William","Bateman, Christian Henry",Come Christmas Join To Sing,,,69,2,,Mimeographed Copies,,,,,,LHSOM Library,SATB,a cappella,,,Christmas,69
 id_2190,record,Choral,"Billingsly, William",,The Paradox,,,70,46,,Mimeographed Copies,,,,,,LHSOM Library,SATB,w/orchestra,,,,70
@@ -2211,11 +2211,11 @@ id_2209,record,Choral,"Binkerd, Gordon",,Psalm 23,,,2511,2,,Boosey & Hawkes,,,,,
 id_2210,record,Choral,"Bird, Hubert",,Adam Lay Ybounden,,,1929,40,,Alliance,,,,,,LHSOM Library,SATB,A cappella,,,,1929
 id_2211,record,Choral,"Bisbee, B. Wayne",,Shojojee,,,1371,3,,Santa Barbara,,,,,,LHSOM Library,SSA,"Piano, percussion",,,Japanese folk,1371
 id_2212,record,Choral,"Bizet, G","Remick, Bertha",Gypsy Song (From Carmen),,,2194,6,,CC Birchard,,,,,,LHSOM Library,SSA,Piano,,,,2194
-id_2213,record,Choral,"Bizet, G.",,"Habanera (from ""Carmen"")",,,,,,Schirmer,,,,,,LHSOM Library,SATB,,,,,
+id_2213,record,Choral,"Bizet, G.",,"Habanera (from ""Carmen"")",,,2413,,,Schirmer,,,,,,LHSOM Library,SATB,,,,,2413
 id_2214,record,Choral,"Bizet, Georges","Lathrop, Roy",Agnus Dei,,,71,71,,Pro Art Publications,,,,,,LHSOM Library,SATB,Piano,,,,71
 id_2215,record,Choral,"Bizet, Georges",,Te Deum,,,2609,38,,Simrock/Hamburg,,,,,,LHSOM Library,SATB,Piano or organ,,,Extended Work,2609
 id_2216,record,Choral,"Bizet, Georges",,Valse Avec Choeur,,,1196,45,,Schott's Choral Library,,,,,,LHSOM Library,SATB,Piano,,,Waltz,1196
-id_2217,record,Choral,"Bizet, Georges",,"Habanera from ""Carmen""",,,,,,Oliver Ditson,,,,,,LHSOM Library,"Solo mezzo-sop, SATB, Cor Anglais",,,,,
+id_2217,record,Choral,"Bizet, Georges",,"Habanera from ""Carmen""",,,72,,,Oliver Ditson,,,,,,LHSOM Library,"Solo mezzo-sop, SATB, Cor Anglais",,,,,72
 id_2218,record,Choral,"Black, Charles",,Let Carols Ring,,,74,62,,H.W. Gray,,,,,,LHSOM Library,SATB,a cappella,,,Christmas,74
 id_2219,record,Choral,"Black, F.J.",,You Are Music,,,75,23,,Sam Fox,,,,,,LHSOM Library,SATB,Piano,,,,75
 id_2220,record,Choral,"Blakeslee, S. Earle",,Drink to Me Only With Thine Eyes,,,76,24,,Music Products,,,,,,LHSOM Library,SSAATTBB,a cappella,,,,76
@@ -2295,13 +2295,13 @@ id_2293,record,Choral,"Britten, Benjamin",,"Old Joe Has Gone Fishing (Round from
 id_2294,record,Choral,"Britten, Benjamin",,Saint Nicolas,,,117,21,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,opt orchestra,,,"Extended Work, Christmas Cantata",117
 id_2295,record,Choral,"Britten, Benjamin",,"Song of the Fisherman (chorus from ""Peter Grimes""",,,118,56,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Piano,,,,118
 id_2296,record,Choral,"Britten, Benjamin",,This Little Babe,,,119,58,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Harp (opt piano),,,Christmas,119
-id_2297,record,Choral,"Britten, Benjamin",,Noye's Fludde (The Chester Miracle Play),,,,,,Boosey & Hawkes,,,,,,LHSOM Library,3-part,"Piano, orchestra",,,Extended Work,
+id_2297,record,Choral,"Britten, Benjamin",,Noye's Fludde (The Chester Miracle Play),,,922,,,Boosey & Hawkes,,,,,,LHSOM Library,3-part,"Piano, orchestra",,,Extended Work,922
 id_2298,record,Choral,"Britten, Benjamin",,A Boy Was Born,,,1300,20,,Oxford,,,,,,LHSOM Library,SATB,Organ or a cappella,,,"Extended, Christmas",1300
 id_2299,record,Choral,"Britten, Benjamin",,"This Little Babe (from ""A Ceremony of Carols"")",,,2384,20,,Boosey & Hawkes,,,,,,LHSOM Library,SSA,Piano or harp,,,,2384
 id_2300,record,Choral,"Britten, Benjamin",,Five Flower Songs Op. 47,,,2605,35,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Orchestra,,,Extended Work,2605
-id_2301,record,Choral,"Britten, Benjamin",,Noye's Fludde (The Chester Miracle Play),,,,,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,"Piano, orchestra",,,Extended Work,
-id_2302,record,Choral,"Britten, Benjamin",,A Ceremony of Carols,,,,,,Boosey & Hawkes,,,,,,LHSOM Library,SSA,Piano or harp,,,Collection,
-id_2303,record,Choral,"Britten, Benjamin",,A Ceremony of Carols,,,,,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Piano or harp,,,Collection,
+id_2301,record,Choral,"Britten, Benjamin",,Noye's Fludde (The Chester Miracle Play),,,2617,,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,"Piano, orchestra",,,Extended Work,2617
+id_2302,record,Choral,"Britten, Benjamin",,A Ceremony of Carols,,,2618,,,Boosey & Hawkes,,,,,,LHSOM Library,SSA,Piano or harp,,,Collection,2618
+id_2303,record,Choral,"Britten, Benjamin",,A Ceremony of Carols,,,2619,,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Piano or harp,,,Collection,2619
 id_2304,record,Choral,"Britten, Benjamin",,Ballad of Green Brown,,,110,45,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,A cappella,,,,110
 id_2305,record,Choral,"Britten, Benjamin",,Lift Boy,,,1940,38,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Piano,,,,1940
 id_2306,record,Choral,"Britten, Benjamin",,Choral Dances from Gloriana,,,1984,24,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,A cappella,,,,1984
@@ -2363,7 +2363,7 @@ id_2361,record,Choral,"Byrd, William",,Sing Joyfully,,,1948,25,,CPDL,,,,,,LHSOM 
 id_2362,record,Choral,"Byrd, William",,Haec Dies,,,2357,29,,Roger Dean,,,,,,LHSOM Library,SSATTB,A cappella,,,,2357
 id_2363,record,Choral,"Byrd, William",,Surge Illuminare,,,2397,3,,Artists Music,,,,,,LHSOM Library,SATB,A cappella,,,,2397
 id_2364,record,Choral,"Byrd, William",,Mass for Four Voices,,,1309,24,,Galaxy Music,,,,,,LHSOM Library,SATB,A cappella,,,Extended,1309
-id_2365,record,Choral,"Cain, Noble",,Ole Ark's A-Moverin',,,,70,,Harold Flammer,,,,,,LHSOM Library,SATB divisi,A cappella,,,Negro Spiritual,
+id_2365,record,Choral,"Cain, Noble",,Ole Ark's A-Moverin',,,55,70,,Harold Flammer,,,,,,LHSOM Library,SATB divisi,A cappella,,,Negro Spiritual,55
 id_2366,record,Choral,"Cain, Noble",,"America, My Own",,,140,,,Harold Flammer,,,,,,LHSOM Library,SATB,piano,,,,140
 id_2367,record,Choral,"Cain, Noble",,"America, My Own",,,140,,,Harold Flammer,,,,,,LHSOM Library,SATB,piano,,,,140
 id_2368,record,Choral,"Cain, Noble",,De Angel Gabriel,,,141,48,,Boosey Hawkes Belwin,,,,,,LHSOM Library,SSAATTBB,A cappella,,,Spiritual,141
@@ -2371,8 +2371,8 @@ id_2369,record,Choral,"Cain, Noble",,"Angel Gabriel, The",,,141,48,,Boosey & Haw
 id_2370,record,Choral,"Cain, Noble",,Ben In Summer,,,142,98,,Boosey & Hawkes,,,,,,LHSOM Library,,,,,,142
 id_2371,record,Choral,"Cain, Noble",,By and By,,,143,25,,Boosey Hawkes Belwin,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,143
 id_2372,record,Choral,"Cain, Noble",,By and By,,,143,25,,Gamble-Hinged Music,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,143
-id_2373,record,Choral,"Cain, Noble",,Chillun' Come on Home,,,,43,,Raymond A. Hoffman,,,,,,LHSOM Library,SATB,A cappella,,,Negro Spiritual,
-id_2374,record,Choral,"Cain, Noble",,Chillun' Come on Home,,,,43,,R.A. Hoffman,,,,,,LHSOM Library,SATB,A cappella,,,Negro Spiritual,
+id_2373,record,Choral,"Cain, Noble",,Chillun' Come on Home,,,143,43,,Raymond A. Hoffman,,,,,,LHSOM Library,SATB,A cappella,,,Negro Spiritual,143
+id_2374,record,Choral,"Cain, Noble",,Chillun' Come on Home,,,144,43,,R.A. Hoffman,,,,,,LHSOM Library,SATB,A cappella,,,Negro Spiritual,144
 id_2375,record,Choral,"Cain, Noble",,Cloud,,,145,98,,Boosey & Hawkes,,,,,,LHSOM Library,,,,,,145
 id_2376,record,Choral,"Cain, Noble",,Ezekial Saw De Wheel,,,146,23,,Boosey Hawkes Belwin,,,,,,LHSOM Library,SATB,piano,,,Negro Spiritual,146
 id_2377,record,Choral,"Cain, Noble",,Ezekiel Saw de Wheel,,,146,23,,Belwin Mills,,,,,,LHSOM Library,,,,,,146
@@ -2389,8 +2389,8 @@ id_2387,record,Choral,"Cain, Noble",,The Night Has a Thousand Eyes,,,152,31,,H. 
 id_2388,record,Choral,"Cain, Noble",,"Night Has a Thousand Eyes, The",,,152,31,,Harold Flammer,,,,,,LHSOM Library,SSAATTBB,A cappella,,,,152
 id_2389,record,Choral,"Cain, Noble",,"O Lord, Send the Fire",,,153,28,,Hall & McCreary,,,,,,LHSOM Library,SATB divisi,opt a cappella,,,,153
 id_2390,record,Choral,"Cain, Noble",,"O Lord, Send the Fire",,,153,28,,Hall & McCreary,,,,,,LHSOM Library,SATB divisi,opt a cappella,,,,153
-id_2391,record,Choral,"Cain, Noble",,Ode To America,,,,,,Harold Flammer,,,,,,LHSOM Library,,,,,,
-id_2392,record,Choral,"Cain, Noble",,Ole Ark's A-Moverin',,,,70,,H. Flammer,,,,,,LHSOM Library,SATB divisi,A cappella,,,Negro Spiritual,
+id_2391,record,Choral,"Cain, Noble",,Ode To America,,,154,,,Harold Flammer,,,,,,LHSOM Library,,,,,,154
+id_2392,record,Choral,"Cain, Noble",,Ole Ark's A-Moverin',,,155,70,,H. Flammer,,,,,,LHSOM Library,SATB divisi,A cappella,,,Negro Spiritual,155
 id_2393,record,Choral,"Cain, Noble",,"Roll, Chariot!",,,156,21,,H. Flammer,,,,,,LHSOM Library,SATB divisi,A cappella,,,Spiritual,156
 id_2394,record,Choral,"Cain, Noble",,Roll Chariot,,,156,21,,Harold Flammer,,,,,,LHSOM Library,SATB divisi,A cappella,,,Spiritual,156
 id_2395,record,Choral,"Cain, Noble",,Say thou lovest me,,,157,64,,G. Schirmer,,,,,,LHSOM Library,SSAATTBB,A cappella,,,,157
@@ -2404,13 +2404,13 @@ id_2402,record,Choral,"Cain, Noble",,Wade in the Water,,,162,22,,G. Schirmer,,,,
 id_2403,record,Choral,"Cain, Noble",,Wade In the Water,,,162,22,,G. Schirmer,,,,,,LHSOM Library,SATB divisi,A cappella,,,Negro Spiritual,162
 id_2404,record,Choral,"Cain, Noble",,When Music Sounds,,,163,42,,H. Flammer,,,,,,LHSOM Library,SATB divisi,A cappella,,,,163
 id_2405,record,Choral,"Cain, Noble",,When Music Sounds,,,163,42,,Harold Flammer,,,,,,LHSOM Library,SATB divisi,A cappella,,,,163
-id_2406,record,Choral,"Cain, Noble",,Ode to America,,,,,,Harold Flammer,,,,,,LHSOM Library,SSA,,,,,
+id_2406,record,Choral,"Cain, Noble",,Ode to America,,,2207,,,Harold Flammer,,,,,,LHSOM Library,SSA,,,,,2207
 id_2407,record,Choral,"Cain, Noble",,On This Good Christmas Morn,,,2217,50,,Harold Flammer,,,,,,LHSOM Library,SSA,Piano,,,Christmas,2217
 id_2408,record,Choral,"Cain, Noble",,"Lullay, My Jesu",,,2223,45,,Harold Flammer,,,,,,LHSOM Library,SSA,Piano,,,Christmas,2223
 id_2409,record,Choral,"Cain, Noble",,Bed in Summer,,,142,98,,Boosey Hawkes Belwin,,,,,,LHSOM Library,SATB,piano,,,,142
 id_2410,record,Choral,"Cain, Noble",,The Cloud,,,145,96,,Boosey Hawkes,,,,,,LHSOM Library,SATB,Piano,,,,145
 id_2411,record,Choral,"Cain, Noble",,I Been Buked,,,148,100,,Boosey Hawkes Belwin,,,,,,LHSOM Library,SATB,A cappella,,,Negro Spiritual,148
-id_2412,record,Choral,"Cain, Noble",,Ode to America,,,,,,H. Flammer,,,,,,LHSOM Library,SATB divisi,,,,,
+id_2412,record,Choral,"Cain, Noble",,Ode to America,,,154,,,H. Flammer,,,,,,LHSOM Library,SATB divisi,,,,,154
 id_2413,record,Choral,"Cain, Noble",,Spirit ob De Lord Done Fell,,,158,125,,Boosey Hawkes Belwin,,,,,,LHSOM Library,SATB divisi,piano,,,Spiritual,158
 id_2414,record,Choral,"Cain, Noble",,Stan' Steady,,,159,94,,Boosey Hawkes,,,,,,LHSOM Library,SATB divisi,A cappella,,,Spiritual,159
 id_2415,record,Choral,"Cain, Noble",,Tom-big-bee River,,,161,94,,Boosey Hawkes,,,,,,LHSOM Library,SATB divisi,A cappella,,,Spiritual,161
@@ -2624,7 +2624,7 @@ id_2622,record,Choral,"Des Prez, Josqin",,"Cricket, The",,,233,30,,Oxford Press,
 id_2623,record,Choral,"Dett, R. Nathaniel",,O Holy Lord,,,237,36,,G. Schirmer,,,,,,LHSOM Library,SSAATTBB,A cappella,,,,237
 id_2624,record,Choral,"Devaux, Joseph",,Rock-a My Soul,,,234,19,,Bourne,,,,,,LHSOM Library,SATB,piano,,,,234
 id_2625,record,Choral,"Di Lasso, Orlando","Widmann, Wilhelm",Audite Nova! (The Big Fat Goose),,,244,6,,G. Schirmer,,,,,,LHSOM Library,SAAB,A cappella,,,,244
-id_2626,record,Choral,"Di Lasso, Orlando","Widmann, Wilhelm","Echo Song (Olà! o che bon eccho!"")",,,,,,G. Schirmer,,,,,,LHSOM Library,SATB-SATB,,,,,
+id_2626,record,Choral,"Di Lasso, Orlando","Widmann, Wilhelm","Echo Song (Olà! o che bon eccho!"")",,,245,,,G. Schirmer,,,,,,LHSOM Library,SATB-SATB,,,,,245
 id_2627,record,Choral,"Di Lasso, Orlando","Widmann, Wilhelm","Farmer, What's that in your Bag?",,,246,52,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,,246
 id_2628,record,Choral,"Di Lasso, Orlando","Deis, Carl",Surrexit Pastor Bonus (The Shepard Has Risen),,,248,40,,G. Schirmer,,,,,,LHSOM Library,SSATB,A cappella,,,,248
 id_2629,record,Choral,"Di Lasso, Orlando","Krone, Max T.",Timor et Tremor,,,249,32,,M. Whitmark & Sons,,,,,,LHSOM Library,SAATTB,A cappella,,,Motet,249
@@ -2632,7 +2632,7 @@ id_2630,record,Choral,"Di Lasso, Orlando",,Mon Coeur Se Recommande a Vous,,,896,
 id_2631,record,Choral,"Di Lasso, Orlando",,Salve Regina,,,1190,30,,Arista,,,,,,LHSOM Library,SATB,A cappella,,,Motet,1190
 id_2632,record,Choral,"Di Lasso, Orlando","Malin, Don",Gallants Who Hail from Land and Sea,,,1575,7,,Marks Music,,,,,,LHSOM Library,SATB,A cappella,,,Madrigal,1575
 id_2633,record,Choral,"Di Lasso, Orlando","Malin, Don",Fair is the Crystal,,,1576,5,,Marks Music,,,,,,LHSOM Library,SATB,A cappella,,,Madrigal,1576
-id_2634,record,Choral,"Di Lasso, Orlando","Widmann, Wilhelm","Echo Song (Olà! o che bon eccho!"")",,,,,,G. Schirmer,,,,,,LHSOM Library,SATB-SATB,,,,,
+id_2634,record,Choral,"Di Lasso, Orlando","Widmann, Wilhelm","Echo Song (Olà! o che bon eccho!"")",,,1799,,,G. Schirmer,,,,,,LHSOM Library,SATB-SATB,,,,,1799
 id_2635,record,Choral,"Di Lasso, Orlando","Avalos, A",Adoramus Te,,,2402,2,,Belwin Mills,,,,,,LHSOM Library,SSA,A cappella,,,Motet,2402
 id_2636,record,Choral,"Diack, Michael",,Jack and Jill,,,238,29,,Paterson's,,,,,,LHSOM Library,SATB,Piano,,,,238
 id_2637,record,Choral,"Dickau, David",,"O, My Love's Like a Red, Red Rose",,,892,35,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,,892
@@ -2644,9 +2644,9 @@ id_2642,record,Choral,"Dickau, David",,In Time of Daffodils,,,1952,25,,Walton Mu
 id_2643,record,Choral,"Dickau, David",,Stars I Shall Find,,,2029,60,,Walton Music,,,,,,LHSOM Library,SATB,Piano,,,,2029
 id_2644,record,Choral,"Dickow, Robert",,Peace,,,1059,40,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,,1059
 id_2645,record,Choral,"Dickow, Robert",,Century Songfest,,,1292,6,,Photocopy,,,,,,LHSOM Library,SATB,"Originally titled 'Century Songfest' but later revised. Some copies have the new title, some the old one.",,,Extended,1292
-id_2646,record,Choral,"Dickow, Robert",,Syringa,,,,,,,,,,,,LHSOM Library,SATB,A cappella,,,,
+id_2646,record,Choral,"Dickow, Robert",,Syringa,,,1726,,,,,,,,,LHSOM Library,SATB,A cappella,,,,1726
 id_2647,record,Choral,"Dickow, Robert",,Yard work in Moscow,,,2025,10,,,,,,,,LHSOM Library,SATB,Piano,,,,2025
-id_2648,record,Choral,"Dickow, Robert",,Syringa,,,,,,Unpublished,,,,,,LHSOM Library,SATB,A cappella,,,,
+id_2648,record,Choral,"Dickow, Robert",,Syringa,,,1199,,,Unpublished,,,,,,LHSOM Library,SATB,A cappella,,,,1199
 id_2649,record,Choral,"Diemer, Emma Lou",,Praise Ye the Lord,,,240,53,,Harold Flammer,,,,,,LHSOM Library,SATB,Two Pianos,,,Psalm,240
 id_2650,record,Choral,"Diemer, Emma Lou",,Three Madrigals,,,241,14,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Piano,,,Madrigal,241
 id_2651,record,Choral,"Diemer, Emma Lou",,Verses From the Rubaiyat,,,1501,1 set,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,"1 set of 5 movements, a cappella",,,5 movements,1501
@@ -2710,7 +2710,7 @@ id_2708,record,Choral,"Eilers, Joyce",,Haunting Melody,,,1021,20,,Jenson,,,,,,LH
 id_2709,record,Choral,"Eilers, Joyce",,Thy Will Be Done,,,1022,20,,Heritage,,,,,,LHSOM Library,SATB,Piano,,,,1022
 id_2710,record,Choral,"Eilers, Joyce",,Midnight Train,,,1048,50,,Jenson,,,,,,LHSOM Library,SATB,Piano,,,,1048
 id_2711,record,Choral,"Einstein, Alfred",,"Golden Age of the Madrigal, The",,,1107,4,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,Madrigal Collection,1107
-id_2712,record,Choral,"Eldridge, Peter",,Come Home,,,,,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,Part song,
+id_2712,record,Choral,"Eldridge, Peter",,Come Home,,,2340,,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,Part song,2340
 id_2713,record,Choral,"Elgar, Edward",,"As Torrents in Summer (from Cantata ""King Olaf"")",,,265,55,,B.F. Wood,,,,,,LHSOM Library,SATB,A cappella,,,,265
 id_2714,record,Choral,"Elgar, Edward",,Land of Hope and Glory,,,957,80,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Piano,,,,957
 id_2715,record,Choral,"Ellington, Duke","Cacavas, John",Portrait of Duke Ellington,,,927,25,,Belwin Mills,,,,,,LHSOM Library,SSATB,"Piano, opt guitar, bass, and drums",,,Medley,927
@@ -2788,8 +2788,8 @@ id_2786,record,Choral,"Foree, Eddie",Davies,You've Been My Music All Along,,,122
 id_2787,record,Choral,"Forrest, Dan",,"Ban, Ban, Caliban",,,2312,18,,Santa Barbara,,,,,,LHSOM Library,SSAA,"Piano, percussion",,,,2312
 id_2788,record,Choral,"Forrest, Dan",,The Hands That First Held Mary's Child,,,2362,19,,Oxford,,,,,,LHSOM Library,TTBB,Piano  and cello parts included,,,Christmas,2362
 id_2789,record,Choral,"Forrest, Dan",,Entreat Me Not To Leave You,,,2050,40,,Hinshaw,,,,,,LHSOM Library,SATB,A cappella divisi,,,,2050
-id_2790,record,Choral,"Foster, Stephen","Lynn, George",De Camptown Races,,,,,,Theodore Presser,,,,,,LHSOM Library,SATB mixed,A cappella,,,,
-id_2791,record,Choral,"Foster, Stephen","Terri, Salli",De Camptown Races,,,,,,Lawson-Gould,,,,,,LHSOM Library,SATB,A cappella,,,,
+id_2790,record,Choral,"Foster, Stephen","Lynn, George",De Camptown Races,,,283,,,Theodore Presser,,,,,,LHSOM Library,SATB mixed,A cappella,,,,283
+id_2791,record,Choral,"Foster, Stephen","Terri, Salli",De Camptown Races,,,284,,,Lawson-Gould,,,,,,LHSOM Library,SATB,A cappella,,,,284
 id_2792,record,Choral,"Foster, Stephen","Blakeslee, S. Earle",Old Black Joe,,,285,24,,Music Products,,,,,,LHSOM Library,SATB,"A cappella, Chimes, Vibra-Harp",,,,285
 id_2793,record,Choral,"Foster, Stephen","Shaw, Parker",Some Folks,,,286,14,,G. Schirmer,,,,,,LHSOM Library,SATB,opt guitar,,,,286
 id_2794,record,Choral,"Foster, Stephen","Halloran, Jack",Nelly Bly,,,2018,30,,Gentry Publications,,,,,,LHSOM Library,SSAATTBB,A cappella,,,,2018
@@ -2939,9 +2939,9 @@ id_2937,record,Choral,"Halley, Paul",,Freedom Trilogy,,,2525,50,,Pelagos Music,,
 id_2938,record,Choral,"Halloran, J.",,Witness,,,1378,80,,Gentry Publications,,,,,,LHSOM Library,SSAATTBB,A cappella,,,Spiritual,1378
 id_2939,record,Choral,"Halsey, Louis",,A-Roving,,,1759,35,,Banks Music,,,,,,LHSOM Library,SATB,A cappella,,,,1759
 id_2940,record,Choral,"Hamblen, Bernard",,Beside Still Waters,,,859,15,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Piano,,,Collection,859
-id_2941,record,Choral,"Hampton, Keith",,Praise His Holy Name,,,,,,Earthsongs,,,,,,LHSOM Library,TTB,,,,spiritual,
+id_2941,record,Choral,"Hampton, Keith",,Praise His Holy Name,,,62,,,Earthsongs,,,,,,LHSOM Library,TTB,,,,spiritual,62
 id_2942,record,Choral,"Hampton, Keith",,True Light,,,2073,35,,Earthsongs,,,,,,LHSOM Library,SATB,Piano,,,,2073
-id_2943,record,Choral,"Hampton, Keith",,Praise His Holy Name,,,,,,Earthsongs,,,,,,LHSOM Library,SATB,,,,spiritual,
+id_2943,record,Choral,"Hampton, Keith",,Praise His Holy Name,,,2301,,,Earthsongs,,,,,,LHSOM Library,SATB,,,,spiritual,2301
 id_2944,record,Choral,"Hancock, Gerre",,A Song To The Lamb,,,2487,2,,H.W. Gray,,,,,,LHSOM Library,SATB,"Organ, brass and timpani",,,Festival anthem,2487
 id_2945,record,Choral,"Hancock, Gerre",,"Infant Holy, Infant Lowly",,,2488,2,,H.W. Gray,,,,,,LHSOM Library,SATB,Organ,,,Polish Christmas Carol,2488
 id_2946,record,Choral,"Handel, G.F.",,"Joyful, Joyful Day!",,,1762,70,,Lorenz,,,,,,LHSOM Library,SATB,Piano,,,,1762
@@ -3133,8 +3133,8 @@ id_3131,record,Choral,"Jenkins, Karl",,"Adiemus (from ""Songs of Sanctuary"")",,
 id_3132,record,Choral,"Jennings, C.",,"Penguou, Ting (Friends Hear This Good News)",,,1428,35,,Earthsongs,,,,,,LHSOM Library,SATB,"A cappella, finger cymbals",,,"Christmas, Chinese characters and words",1428
 id_3133,record,Choral,"Jennings, J.",,Steal Away,,,1459,32,,Hinshaw Music,,,,,,LHSOM Library,SATB,"A cappella, solos",,,Spiritual,1459
 id_3134,record,Choral,"Jeune, Claude Le",,Reflections on the Vanity and Inconstancy of the World,,,2523,3,,MCA Music,,,,,,LHSOM Library,SATB,Piano,,,,2523
-id_3135,record,Choral,"Joel, Billy","Shaw, Kirby",And So It Goes,,,,,,EMI Blackwood Music,,,,,,LHSOM Library,SSAA,,,,Jazz,
-id_3136,record,Choral,"Joel, Billy","Chilcott, Bob",And So It Goes,,,,,,Hal Leonard,,,,,,LHSOM Library,SATB,,,,Jazz,
+id_3135,record,Choral,"Joel, Billy","Shaw, Kirby",And So It Goes,,,1332,,,EMI Blackwood Music,,,,,,LHSOM Library,SSAA,,,,Jazz,1332
+id_3136,record,Choral,"Joel, Billy","Chilcott, Bob",And So It Goes,,,1961,,,Hal Leonard,,,,,,LHSOM Library,SATB,,,,Jazz,1961
 id_3137,record,Choral,"John, Elton","Kerr, Anita",Don't Let the Sun Go Down on Me,,,1568,3,,Big Pig Music,,,,,,LHSOM Library,SATB,"Piano, combo",,,Jazz,1568
 id_3138,record,Choral,"Johnson, Alfred H.",,Carol of the Singing Reeds,,,2224,45,,Fischer,,,,,,LHSOM Library,SSA,Piano or organ,,,Christmas,2224
 id_3139,record,Choral,"Johnson, Craig Hella",,Gitanjali Chants,,,2075,35,,Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,,2075
@@ -3194,8 +3194,8 @@ id_3192,record,Choral,"Kodaly, Zoltan",,See the Gipsies,,,923,15,,Oxford,,,,,,LH
 id_3193,record,Choral,"Kodaly, Zoltan",,Evening Song,,,1058,20,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,A cappella,,,,1058
 id_3194,record,Choral,"Kodaly, Zoltan",,Ave Maria,,,2266,93,,Universal Edition,,,,,,LHSOM Library,SSA,A cappella,,,,2266
 id_3195,record,Choral,"Kodaly, Zoltan",,Ladybird,,,2406,3,,Boosey & Hawkes,,,,,,LHSOM Library,SSA,A cappella,,,,2406
-id_3196,record,Choral,"Kodaly, Zoltan",,Missa Brevis,,,,,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Organ,,,,
-id_3197,record,Choral,"Kodaly, Zoltan",,Missa Brevis,,,,,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Organ,,,,
+id_3196,record,Choral,"Kodaly, Zoltan",,Missa Brevis,,,2663,,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Organ,,,,2663
+id_3197,record,Choral,"Kodaly, Zoltan",,Missa Brevis,,,943,,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Organ,,,,943
 id_3198,record,Choral,"Koepke, Allen",,Wade in de Water,,,1644,40,,Santa Barbara,,,,,,LHSOM Library,SSAATTBB,A cappella,,,,1644
 id_3199,record,Choral,"Konowitz, Bert",,"Last Word, The",,,1261,12,,Alfred Music,,,,,,LHSOM Library,SATB,Piano,,,Jazz,1261
 id_3200,record,Choral,"Kopolyoff, Andre",,Alleluia! Christ is Risen,,,453,20,,Oliver Ditson,,,,,,LHSOM Library,SATB,Piano or organ,,,,453
@@ -3256,13 +3256,13 @@ id_3254,record,Choral,"Lekberg, Sven",,So Wonderous Sweet and Fair,,,481,20,,Sch
 id_3255,record,Choral,"Lekberg, Sven",,Weep of Willow,,,482,30,,Dummy-birchard,,,,,,LHSOM Library,SATB,"A cappella, divisi, solo",,,,482
 id_3256,record,Choral,"Lekberg, Sven",,Envoy,,,986,7,,Fischer & Bros.,,,,,,LHSOM Library,SATB,A cappella,,,,986
 id_3257,record,Choral,Lennon & Mccartney,"Runswick, Daryl",Blackbird,,,2039,30,,Hal Leonard,,,,,,LHSOM Library,SATB,A cappella divisi,,,,2039
-id_3258,record,Choral,Lennon/Mccartney,,"Here, There and Everywhere",,,,,,Shawnee Press,,,,,,LHSOM Library,SATB,,,,Jazz,
+id_3258,record,Choral,Lennon/Mccartney,,"Here, There and Everywhere",,,483,,,Shawnee Press,,,,,,LHSOM Library,SATB,,,,Jazz,483
 id_3259,record,Choral,Lennon/Mccartney,Yankee,Pool on the Hill,,,1159,5,,Creative World,,,,,,LHSOM Library,5-part,Rhythm section,,,Jazz,1159
 id_3260,record,Choral,Lennon/Mccartney,Puerling,Yesterday,,,1175,5,,Shawnee,,,,,,LHSOM Library,7-parts,,,,Jazz,1175
-id_3261,record,Choral,Lennon/Mccartney,Puerling,Michelle,,,,,,Shawnee Press,,,,,,LHSOM Library,SSAATTBB,A cappella,,,Jazz,
-id_3262,record,Choral,Lennon/Mccartney,Azelton,Michelle,,,,,,Hal Leonard,,,,,,LHSOM Library,SATB,A cappella,,,Jazz,
-id_3263,record,Choral,Lennon/Mccartney,Wahlstrom,"Here, There and Everywhere",,,,,,Hal Leonard,,,,,,LHSOM Library,SATB,,,,Jazz,
-id_3264,record,Choral,Lennon/Mccartney,Puerling,"Here, There and Everywhere",,,,,,Shawnee Press,,,,,,LHSOM Library,SSATBB,,,,Jazz,
+id_3261,record,Choral,Lennon/Mccartney,Puerling,Michelle,,,1230,,,Shawnee Press,,,,,,LHSOM Library,SSAATTBB,A cappella,,,Jazz,1230
+id_3262,record,Choral,Lennon/Mccartney,Azelton,Michelle,,,1231,,,Hal Leonard,,,,,,LHSOM Library,SATB,A cappella,,,Jazz,1231
+id_3263,record,Choral,Lennon/Mccartney,Wahlstrom,"Here, There and Everywhere",,,1257,,,Hal Leonard,,,,,,LHSOM Library,SATB,,,,Jazz,1257
+id_3264,record,Choral,Lennon/Mccartney,Puerling,"Here, There and Everywhere",,,1269,,,Shawnee Press,,,,,,LHSOM Library,SSATBB,,,,Jazz,1269
 id_3265,record,Choral,Lennon/Mccartney,Lojeski,Lennon/McCartney Medley #2,,,1335,6,,Hal Leonard,,,,,,LHSOM Library,SATB,Rhythm section,,,Jazz,1335
 id_3266,record,Choral,Leontovitch,Wilhousky,Carol of the Bells,,,484,20,,Carl Fischer,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,484
 id_3267,record,Choral,Leontovitch,,Jan Waselu,,,485,15,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,,485
@@ -3292,8 +3292,8 @@ id_3290,record,Choral,"Logee, Dwight",,Where is the Love?,,,1207,20,,,,,,,,LHSOM
 id_3291,record,Choral,"Logee, Dwight",,There Will Never Be Another You,,,1225,10,,Copies,,,,,,LHSOM Library,3-part,Rhythm section,,,Jazz,1225
 id_3292,record,Choral,"Lombardo, Mario",,Winter Frolic,,,2463,2,,Belwin Mills,,,,,,LHSOM Library,SATB,Piano,,,,2463
 id_3293,record,Choral,"Loridsen, Morten",,O Nata Lux,,,1801,30,,Peermusic,,,,,,LHSOM Library,SATB,A cappella,,,,1801
-id_3294,record,Choral,"Lotti, Antonio",,Crucifixus,,,,,,G. Schirmer,,,,,,LHSOM Library,SSATTB,A cappella,,,Walton,
-id_3295,record,Choral,"Lotti, Antonio",Mason,Crucifixus,,,,,,G. Schirmer,,,,,,LHSOM Library,SSAATTBB,A cappella,,,Walton,
+id_3294,record,Choral,"Lotti, Antonio",,Crucifixus,,,493,,,G. Schirmer,,,,,,LHSOM Library,SSATTB,A cappella,,,Walton,493
+id_3295,record,Choral,"Lotti, Antonio",Mason,Crucifixus,,,494,,,G. Schirmer,,,,,,LHSOM Library,SSAATTBB,A cappella,,,Walton,494
 id_3296,record,Choral,"Lovett, Joseph S.","Scott, Tom",Hymn to a Hero,,,2212,40,,Words and Music,,,,,,LHSOM Library,SSA,Piano,,,Patriotic,2212
 id_3297,record,Choral,"Lowell, Dorothy Dawson",,I Need Thee,,,2279,3,,Bourne,,,,,,LHSOM Library,SSA,Piano,,,,2279
 id_3298,record,Choral,"Lowell, Dorthy D.","Wilson, Harry R.","I Need Thee, Heavenly Father",,,1603,3,,Bourne,,,,,,LHSOM Library,SATB,Piano,,,Sacred,1603
@@ -3308,8 +3308,8 @@ id_3306,record,Choral,"Luboff, Norman",,Silly Ditties,,,964,40,,Walton Music,,,,
 id_3307,record,Choral,"Luboff, Norman",,A La Nanita Nana,,,1044,30,,Walton,,,,,,LHSOM Library,SATB,Piano,,,,1044
 id_3308,record,Choral,"Luboff, Norman",,Much Ado About Nothing,,,1080,47,,Walton,,,,,,LHSOM Library,SATTBB,A cappella,,,,1080
 id_3309,record,Choral,"Luboff, Norman",,Farewell,,,1184,20,,Walton,,,,,,LHSOM Library,SATB,A cappella,,,Swedish Folkson,1184
-id_3310,record,Choral,"Luboff, Norman",,All My Trials,,,,,,Walton,,,,,,LHSOM Library,SATB,"A cappella, divisi",,,Spiritual,
-id_3311,record,Choral,"Luboff, Norman",,All My Trials,,,,,,Walton,,,,,,LHSOM Library,SATB,"A cappella, divisi",,,Spiritual,
+id_3310,record,Choral,"Luboff, Norman",,All My Trials,,,1433,,,Walton,,,,,,LHSOM Library,SATB,"A cappella, divisi",,,Spiritual,1433
+id_3311,record,Choral,"Luboff, Norman",,All My Trials,,,2292,,,Walton,,,,,,LHSOM Library,SATB,"A cappella, divisi",,,Spiritual,2292
 id_3312,record,Choral,"Lucas, Robert",Letson,Blue Autumn,,,1156,12,,Hal Leonard,,,,,,LHSOM Library,SATB,"Rhythm section, violin or flute",,,Jazz,1156
 id_3313,record,Choral,"Lundquist, Matthew",,"Comfort, Comfort Ye my People",,,500,50,,Edwin F. Kalmus,,,,,,LHSOM Library,SATB,Organ,,,Motet,500
 id_3314,record,Choral,"Luvaas, Morten J.",,Hi Ho Sing Gaily,,,501,41,,C.C. Birchard &,,,,,,LHSOM Library,SATB,A cappella,,,Swiss folk tune,501
@@ -3326,14 +3326,14 @@ id_3324,record,Choral,"Macgimsey, Robert",,Shadrack,,,508,55,,Carl Fischer,,,,,,
 id_3325,record,Choral,"Mackin, Coope, Cherman",,"Opening Scene: Nocturne""""",,,#11 Box of Idaho Songs,,,Mimeographed copies,,,,,,LHSOM Library,,,,,,#11 Box of Idaho Songs
 id_3326,record,Choral,"Macklin, Hall",H.M.M.,Away beyond the Hills of Idaho (Lyrics),,,509,40,,Mimeogaped Copies,,,,,,LHSOM Library,,lyrics only,,,,509
 id_3327,record,Choral,"Macklin, Hall",,Home on the Range,,,513,20,,Mimeographed Copies,,,,,,LHSOM Library,TTBB,"A cappella, solo",,,,513
-id_3328,record,Choral,"Macklin, Hall",,Here We Have Idaho,,,,50,,Mimeographed Copies,,,,,,LHSOM Library,SATB,,,,Idaho,
+id_3328,record,Choral,"Macklin, Hall",,Here We Have Idaho,,,#10 Box of Idaho Songs,50,,Mimeographed Copies,,,,,,LHSOM Library,SATB,,,,Idaho,#10 Box of Idaho Songs
 id_3329,record,Choral,"Macklin, Hall",,Silver and Gold,,,#14 Box of Idaho Songs,,,Mimeographed Copies,,,,,,LHSOM Library,SATB,,,,,#14 Box of Idaho Songs
 id_3330,record,Choral,"Macklin, Hall",,Serenity and Peace,,,#4 Box of Idaho Songs,,,Mimeographed Copies,,,,,,LHSOM Library,,,,,,#4 Box of Idaho Songs
 id_3331,record,Choral,"Macklin, Hall",,Our Idaho,,,#5 Box of Idaho Songs,,,Mimeographed Copies,,,,,,LHSOM Library,,"2 envelopes, various keys",,,,#5 Box of Idaho Songs
 id_3332,record,Choral,"Macklin, Hall",,Ode to Idaho,,,#6 Box of Idaho Songs,,,University of Idaho,,,,,,LHSOM Library,,,,,,#6 Box of Idaho Songs
 id_3333,record,Choral,"Macklin, Hall",,"Light Upon the Mountains, The",,,#7 Box of Idaho Songs,,,Mimeographed Copies,,,,,,LHSOM Library,,2 envelopes and stack of scores,,,Oratorio,#7 Box of Idaho Songs
 id_3334,record,Choral,"Macklin, Hall",,"Idaho, Mother of Mine",,,#8 Box of Idaho Songs,,,Photostat Copy,,,,,,LHSOM Library,,2 envelopes,,,,#8 Box of Idaho Songs
-id_3335,record,Choral,"Macklin, Hall",,Here We Have Idaho,,,,50,,Photostat Copy,,,,,,LHSOM Library,SATB,,,,Idaho,
+id_3335,record,Choral,"Macklin, Hall",,Here We Have Idaho,,,#9 Box of Idaho Songs,50,,Photostat Copy,,,,,,LHSOM Library,SATB,,,,Idaho,#9 Box of Idaho Songs
 id_3336,record,Choral,"Macklin, Hall",,Gee-eyes-right,,,510,47,,ASUI,,,,,,LHSOM Library,Unison,Piano,,,,510
 id_3337,record,Choral,Maclean,,Victor Herbert Favorites,,,519,25,,M. Witmark & Sons,,,,,,LHSOM Library,SATB,Band 0r orchestra,,,,519
 id_3338,record,Choral,"Macleod, Robert",,Gaelic Mouth Music,,,538,30,,Paterson's Publications,,,,,,LHSOM Library,SATB,A cappella,,,,538
@@ -3360,8 +3360,8 @@ id_3358,record,Choral,"Martin, Gilbert A.",,"Good Christians All, Rejoice!",,,18
 id_3359,record,Choral,"Martin, Gilbert M.",,The Jesus Gift,,,1366,25,,Hinshaw,,,,,,LHSOM Library,SATB,Piano,,,Christmas,1366
 id_3360,record,Choral,"Martin, Gilbert M.",,A Song For the New Year,,,2493,2,,Sacred Music Press,,,,,,LHSOM Library,SATB,Organ,,,,2493
 id_3361,record,Choral,"Martin, Joseph",,The Awakening,,,1812,55,,Shawnee Press,,,,,,LHSOM Library,SATB,Piano,,,,1812
-id_3362,record,Choral,"Martini, Padre G. B.",,"Lord, My God, Assist Me Now",,,,,,Concordia,,,,,,LHSOM Library,SATB,,,,,
-id_3363,record,Choral,"Martini, Padre G.B.","Castellini, John","Lord, My God, Assist Me Now",,,,,,Concordia,,,,,,LHSOM Library,SATB,,,,,
+id_3362,record,Choral,"Martini, Padre G. B.",,"Lord, My God, Assist Me Now",,,1664,,,Concordia,,,,,,LHSOM Library,SATB,,,,,1664
+id_3363,record,Choral,"Martini, Padre G.B.","Castellini, John","Lord, My God, Assist Me Now",,,2335,,,Concordia,,,,,,LHSOM Library,SATB,,,,,2335
 id_3364,record,Choral,"Martinu, Buhuslav",,"Dove's Message, The",,,525,10,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,A cappella,,,Czech Madrigal,525
 id_3365,record,Choral,"Martinu, Buhuslav",,"Fickle Sweetheart, The",,,526,10,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,A cappella,,,Czech Madrigal,526
 id_3366,record,Choral,"Martinu, Buhuslav",,Geese on the Water,,,527,10,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,A cappella,,,Czech Madrigal,527
@@ -3430,12 +3430,12 @@ id_3428,record,Choral,"Miller, John",,Ther's A Spirit Here,,,1509,22,,Hindon Pub
 id_3429,record,Choral,"Monte, Philippe",,How Great the Love,,,1573,5,,Marks,,,,,,LHSOM Library,SSATB,A cappella,,,Madrigal,1573
 id_3430,record,Choral,"Monte, Philippe De","Malin, Don",On the First Day of May,,,1574,3,,Marks Music,,,,,,LHSOM Library,SSATB,A cappella,,,Madrigal,1574
 id_3431,record,Choral,"Monte, Philippe De","Malin, Don","Now Past, the Deadly Peril",,,1591,3,,Marks Music,,,,,,LHSOM Library,SSAATB,A cappella,,,Madrigal,1591
-id_3432,record,Choral,"Monteverdi, C.","Fulton, Kenneth",Si ch'io vorrei morire,,,,,,Alliance Music,,,,,,LHSOM Library,SATBB,A cappella,,,Madrigal,
+id_3432,record,Choral,"Monteverdi, C.","Fulton, Kenneth",Si ch'io vorrei morire,,,2066,,,Alliance Music,,,,,,LHSOM Library,SATBB,A cappella,,,Madrigal,2066
 id_3433,record,Choral,"Monteverdi, Claudio",,"Kisses, So Sweet And Burning",,,541,11,,Boston Music,,,,,,LHSOM Library,SSATB,A cappella,,,Madrigal,541
 id_3434,record,Choral,"Monteverdi, Claudio",,O Leave Me (Sasciatemi Morrire),,,544,50,,G. Ricardi &,,,,,,LHSOM Library,SSATB,A cappella,,,Madrigal,544
 id_3435,record,Choral,"Monteverdi, Claudio",,Truly I Must Perish,,,545,20,,Edition Musicus,,,,,,LHSOM Library,SSATB,A cappella,,,Madrigal,545
 id_3436,record,Choral,"Monteverdi, Claudio",,Magnificat,,,1194,6,,Universal-Edition,,,,,,LHSOM Library,SATB,Orchestral reduction,,,Extended,1194
-id_3437,record,Choral,"Monteverdi, Claudio",,Si Ch'io Vorrei Morire,,,,,,Copies,,,,,,LHSOM Library,SAATB,A cappella,,,Madrigal,
+id_3437,record,Choral,"Monteverdi, Claudio",,Si Ch'io Vorrei Morire,,,1360,,,Copies,,,,,,LHSOM Library,SAATB,A cappella,,,Madrigal,1360
 id_3438,record,Choral,"Monteverdi, Claudio",,Sfogava con le Stelle,,,1362,15,,Copies,,,,,,LHSOM Library,SSATB,A cappella,,,Madrigal,1362
 id_3439,record,Choral,"Monteverdi, Claudio",,Ecco Mormorar L'Onde,,,1403,13,,Franco Columbo,,,,,,LHSOM Library,SSATB,A cappella,,,Madrigal,1403
 id_3440,record,Choral,"Monteverdi, Claudio",,Ave Maris Stella,,,1419,8,,Universal Edition,,,,,,LHSOM Library,SSAATTBB,,,,Motet,1419
@@ -3446,9 +3446,9 @@ id_3444,record,Choral,"Morley, Thomas",,April Is In My Mistresses Face,,,546,15,
 id_3445,record,Choral,"Morley, Thomas",,Sing We And Chant It,,,547,15,,M. Witmark & Sons,,,,,,LHSOM Library,SATB,A cappella,,,Madrigal,547
 id_3446,record,Choral,"Morley, Thomas",,"Lirum, Lirum",,,1006,20,,Galaxy Music,,,,,,LHSOM Library,SSATB,A cappella,,,,1006
 id_3447,record,Choral,"Morley, Thomas",,Agnus Dei,,,1056,25,,Arista,,,,,,LHSOM Library,SATB,A cappella,,,Motet,1056
-id_3448,record,Choral,"Morley, Thomas",,Now is the Month of Maying,,,,,,G. Schirmer,,,,,,LHSOM Library,SATTBB,A cappella,,,Madrigal,
+id_3448,record,Choral,"Morley, Thomas",,Now is the Month of Maying,,,1064,,,G. Schirmer,,,,,,LHSOM Library,SATTBB,A cappella,,,Madrigal,1064
 id_3449,record,Choral,"Morley, Thomas",,"Shoot, False Love, I Care Not",,,1589,6,,Oliver Ditson,,,,,,LHSOM Library,SSATB,A cappella,,,Madrigal,1589
-id_3450,record,Choral,"Morley, Thomas","Anderson, Arthur Olaf",Now is the Month of Maying,,,,,,Hall & McCreary,,,,,,LHSOM Library,SSAA,A cappella,,,Madrigal,
+id_3450,record,Choral,"Morley, Thomas","Anderson, Arthur Olaf",Now is the Month of Maying,,,2176,,,Hall & McCreary,,,,,,LHSOM Library,SSAA,A cappella,,,Madrigal,2176
 id_3451,record,Choral,"Morrison, Theodore",,Winter Madrigals,,,1449,35,,Earthsongs,,,,,,LHSOM Library,SATB,A cappella,,,Madrigal,1449
 id_3452,record,Choral,"Mouton, Jean","Martens, Mason",Qui Ne Regrettroit Le Gentil Fevin,,,2452,2,,Leeds Music Corp,,,,,,LHSOM Library,SATB,A cappella,,,Renaissance,2452
 id_3453,record,Choral,Mozart,,Elves of the Forest,,,2192,2,,H.W. Gray Co,,,,,,LHSOM Library,SSA,Piano,,,,2192
@@ -3513,11 +3513,11 @@ id_3511,record,Choral,"Norman, John D.",,The Peace of God,,,2273,7,,Choristers G
 id_3512,record,Choral,"Nosse, Carl E.",,Know Ye Not?,,,577,30,,Choral Art Publishers,,,,,,LHSOM Library,SSAATTBB,"A cappella, divisi",,,,577
 id_3513,record,Choral,"Nowowiejski, Felix",,Parce Domine,,,1972,25,,Colla voce,,,,,,LHSOM Library,SATB,A cappella,,,,1972
 id_3514,record,Choral,"Nystedt, Kent",,The Path of the Just,,,972,40,,Augsburg,,,,,,LHSOM Library,SSAATTBB,A cappella,,,,972
-id_3515,record,Choral,"Nystedt, Knut",,Cry Out And Shout,,,,,,Summy-Birchard,,,,,,LHSOM Library,SATB,,,,,
+id_3515,record,Choral,"Nystedt, Knut",,Cry Out And Shout,,,578,,,Summy-Birchard,,,,,,LHSOM Library,SATB,,,,,578
 id_3516,record,Choral,"Nystedt, Knut",,O Crux,,,1386,30,,Hinshaw Music,,,,,,LHSOM Library,SSAATTBB,A cappella,,,Motet,1386
 id_3517,record,Choral,"Nystedt, Knut",,Three Motets,,,1555,7,,Augsburg,,,,,,LHSOM Library,SATB,A cappella,,,Motet,1555
 id_3518,record,Choral,"Nystedt, Knut",,Suoni,,,2253,21,,Associated Music Publishers,,,,,,LHSOM Library,SSAA,"Flute, Marimba",,,,2253
-id_3519,record,Choral,"Nystedt, Knut",,Cry Out and Shout,,,,,,Sammy Birchard,,,,,,LHSOM Library,SSATTB,,,,,
+id_3519,record,Choral,"Nystedt, Knut",,Cry Out and Shout,,,2294,,,Sammy Birchard,,,,,,LHSOM Library,SSATTB,,,,,2294
 id_3520,record,Choral,"Nyvall, David",,"Alma Mater (Idaho, Mother of Mine)",,,#16 Box of Idaho Songs,2,,Copyright U of I,,,,,,LHSOM Library,SATB,Piano,,,,#16 Box of Idaho Songs
 id_3521,record,Choral,"O'Donnell, J. M.",,"Go, Vandals, Go!",,,#12 Box of Idaho Songs,,,Mimeograph copy,,,,,,LHSOM Library,,2 envelopes,,,Folk-Idaho,#12 Box of Idaho Songs
 id_3522,record,Choral,"O'Hara, Geoffrey",,"Let's Sing, Let's Play, Let's Work",,,581,45,,Carl Fischer,,,,,,LHSOM Library,SATB,Piano,,,,581
@@ -3588,8 +3588,8 @@ id_3586,record,Choral,"Penhorwood, Erwin",,A Plea For Peace,,,1491,5,,"Hinshaw M
 id_3587,record,Choral,"Penn, Arthur A.",,Sing Along,,,602,20,,M. Witmark & Sons,,,,,,LHSOM Library,SATB,Piano,,,,602
 id_3588,record,Choral,"Penn, Robert",,The Wit And Wisdom of Benjamin Franklin,,,603,30,,Robert Dean,,,,,,LHSOM Library,SATB,A cappella,,,American,603
 id_3589,record,Choral,"Pergolesi, G. B.",,O Quan Tristis et Afflicta (O How Mornful),,,604,45,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Piano,,,Extended,604
-id_3590,record,Choral,"Pergolesi, G. B.",,Stabat Mater,,,,,,G. Schirmer,,,,,,LHSOM Library,SA,,,,Extended Work,
-id_3591,record,Choral,"Pergolesi, G.W.",,Stabat Mater,,,,,,Schirmer,,,,,,LHSOM Library,SA,,,,Extended Work,
+id_3590,record,Choral,"Pergolesi, G. B.",,Stabat Mater,,,2631,,,G. Schirmer,,,,,,LHSOM Library,SA,,,,Extended Work,2631
+id_3591,record,Choral,"Pergolesi, G.W.",,Stabat Mater,,,2258,,,Schirmer,,,,,,LHSOM Library,SA,,,,Extended Work,2258
 id_3592,record,Choral,"Perry, Dave And Jean",,Play It Again,,,2276,6,,Shawnee Press,,,,,,LHSOM Library,SSA,Piano,,,,2276
 id_3593,record,Choral,"Persichetti, Vincent",,Three Selections from Winter Cantata,,,35,13,,Elian-Vogel,,,,,,LHSOM Library,SA,Piano or flute and marimba,,,,35
 id_3594,record,Choral,"Persichetti, Vincent",,Proverb,,,605,42,,Elkan-Vogel,,,,,,LHSOM Library,SATB,A cappella,,,American folk,605
@@ -3613,9 +3613,9 @@ id_3611,record,Choral,Phillilps,Lojeski,California Dreamin',,,1142,18,,Wingate C
 id_3612,record,Choral,"Phillips, John",Rogers,"Monday, Monday",,,1172,18,,Hal Leonard,,,,,,LHSOM Library,SATB,"Piano, opt string bass, guitar, and percussion",,,Jazz,1172
 id_3613,record,Choral,"Pierce, Brent",,How Still He Rests,,,1322,15,,Walton Music,,,,,,LHSOM Library,SATB,"Oboe, wind chimes",,,Christmas,1322
 id_3614,record,Choral,"Pierce, Brent",,"Sleep, Little Child/Silent Night",,,2490,2,,Plymouth Music,,,,,,LHSOM Library,SATB,Piano and flute,,,Christmas,2490
-id_3615,record,Choral,Pierpont,,Jingle Bells,,,,,,Mimeograph copy,,,,,,LHSOM Library,SATB,A cappella,,,,
+id_3615,record,Choral,Pierpont,,Jingle Bells,,,611,,,Mimeograph copy,,,,,,LHSOM Library,SATB,A cappella,,,,611
 id_3616,record,Choral,Pierpont,"Hayes, Mark","Variations on ""Jingle Bells""",,,2055,30,,Shawnee Press,,,,,,LHSOM Library,SATB,"Sleigh bells, piano",,,Christmas,2055
-id_3617,record,Choral,"Pierpont, J.","Blackwell, David",Jingle Bells,,,,,,Oxford Press,,,,,,LHSOM Library,SATB,A cappella,,,,
+id_3617,record,Choral,"Pierpont, J.","Blackwell, David",Jingle Bells,,,1930,,,Oxford Press,,,,,,LHSOM Library,SATB,A cappella,,,,1930
 id_3618,record,Choral,"Piket, Frederick",,Arise My Love,,,612,39,,Assoc. Music,,,,,,LHSOM Library,SATB,"A cappella, divisi, ten solo",,,,612
 id_3619,record,Choral,"Piket, Frederick",,If Thou Must Love Me,,,613,40,,Lawson-Gould Music,,,,,,LHSOM Library,SATB,A cappella,,,,613
 id_3620,record,Choral,"Piket, Frederick",,Remember,,,614,43,,Assoc. Music,,,,,,LHSOM Library,SATB,A cappella,,,,614
@@ -3637,8 +3637,8 @@ id_3635,record,Choral,"Porter, Cole","Warnick, Clay",What Is This Thing Caled Lo
 id_3636,record,Choral,"Porter, Cole","Stickles, William",In The Still Of The Night,,,2408,2,,Chappell,,,,,,LHSOM Library,SSA,Piano,,,,2408
 id_3637,record,Choral,"Porterfield, Sherri",,Hodie Christus Natus Est,,,1514,20,,"Belwin,",,,,,,LHSOM Library,SATB,Piano or harp,,,Christmas,1514
 id_3638,record,Choral,"Potter, William",,Annie Laurie,,,619,30,,Oliver Ditson,,,,,,LHSOM Library,SATB,A cappella,,,,619
-id_3639,record,Choral,"Pottle, Sam",,Jabberwocky,,,,,,Trigon Music,,,,,,LHSOM Library,SAATB,,,,Children's fable,
-id_3640,record,Choral,"Pottle, Sam",,Jabberwocky,,,,,,Trigon Muic,,,,,,LHSOM Library,SATB,,,,Children's fable,
+id_3639,record,Choral,"Pottle, Sam",,Jabberwocky,,,1441,,,Trigon Music,,,,,,LHSOM Library,SAATB,,,,Children's fable,1441
+id_3640,record,Choral,"Pottle, Sam",,Jabberwocky,,,2341,,,Trigon Muic,,,,,,LHSOM Library,SATB,,,,Children's fable,2341
 id_3641,record,Choral,"Poulenc, Francis",,Hodie Christus Natus Est,,,620,60,,Belwin Mills,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,620
 id_3642,record,Choral,"Poulenc, Francis",,O Magnum Mysterium,,,621,40,,Belwin Mills,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,621
 id_3643,record,Choral,"Poulenc, Francis",,Quem Vidistis Pastores Dicita,,,622,35,,Belwin Mills,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,622
@@ -3651,9 +3651,9 @@ id_3649,record,Choral,"Powell, Rick And Sylvia",,"Peace, Peace",,,2396,5,,Fred B
 id_3650,record,Choral,"Powell, Robert J.",,Psalm 13,,,2489,2,,Sacred Music Press,,,,,,LHSOM Library,SATB,Piano,,,,2489
 id_3651,record,Choral,"Powell, Rosephanye",,Still I Rise,,,2370,16,,Gentry,,,,,,LHSOM Library,SSAA,Piano,,,,2370
 id_3652,record,Choral,"Powell, Rosephanye",,Sorida (A Zimbabwe Greeting),,,1847,70,,Hal Leonard,,,,,,LHSOM Library,SATB,"Divisi, Percussion",,,African,1847
-id_3653,record,Choral,"Praetorius, M.",,"Lo, How a Rose e'er Blooming",,,,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,Folk-Christmas,
+id_3653,record,Choral,"Praetorius, M.",,"Lo, How a Rose e'er Blooming",,,624,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,Folk-Christmas,624
 id_3654,record,Choral,"Praetorius, Michael",,She is so dear,,,625,30,,Oliver Ditson,,,,,,LHSOM Library,SATB,A cappella,,,Madrigal,625
-id_3655,record,Choral,"Praetorius, Michael And Jan Sandstrom",,"Lo, How a Rose e'er Blooming",,,,,,Walton Music,,,,,,LHSOM Library,SSAATTBB,,,,Folk-Christmas,
+id_3655,record,Choral,"Praetorius, Michael And Jan Sandstrom",,"Lo, How a Rose e'er Blooming",,,1670,,,Walton Music,,,,,,LHSOM Library,SSAATTBB,,,,Folk-Christmas,1670
 id_3656,record,Choral,"Prescott, John",,Ozark Folk Song Suite,,,1849,25,,CMS press,,,,,,LHSOM Library,SATB,A cappella,,,,1849
 id_3657,record,Choral,"Preston, John E.",,The Coming American,,,1569,3,,Mills Music,,,,,,LHSOM Library,SATB,Organ and string orchestra,,,Patriotic,1569
 id_3658,record,Choral,"Price, Florence",,Resignation,,,516,30,,Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,516
@@ -3761,9 +3761,9 @@ id_3759,record,Choral,"Rutter, John",,Angel's Carol,,,1513,20,,Hinshaw,,,,,,LHSO
 id_3760,record,Choral,"Rutter, John",,O Clap Your Hands,,,1615,10,,Oxford,,,,,,LHSOM Library,SATB,Organ,,,Anthem,1615
 id_3761,record,Choral,"Rutter, John",,Candlelight Carol,,,1855,30,,Hinshaw Music,,,,,,LHSOM Library,SATBB,Organ,,,Christmas,1855
 id_3762,record,Choral,"Rutter, John",,Deck the Hall,,,1856,30,,Hinshaw Music,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,1856
-id_3763,record,Choral,"Rutter, John",,For the Beauty of the Earth,,,,,,Hinshaw,,,,,,LHSOM Library,SA,Piano,,,,
+id_3763,record,Choral,"Rutter, John",,For the Beauty of the Earth,,,2268,,,Hinshaw,,,,,,LHSOM Library,SA,Piano,,,,2268
 id_3764,record,Choral,"Rutter, John","Stanford, Charles V.","Quick, We Have But a Second!",,,2285,40,,Hinshaw,,,,,,LHSOM Library,SATB,A cappella,,,,2285
-id_3765,record,Choral,"Rutter, John",,For the Beauty of the Earth,,,,,,Sacred Music Press,,,,,,LHSOM Library,SATB,Piano,,,,
+id_3765,record,Choral,"Rutter, John",,For the Beauty of the Earth,,,2482,,,Sacred Music Press,,,,,,LHSOM Library,SATB,Piano,,,,2482
 id_3766,record,Choral,"Rutter, John",,Gloria,,,2638,9,,Oxford,,,,,,LHSOM Library,SATB,"Brass, Percussion, Organ",,,Extended Work,2638
 id_3767,record,Choral,"Rutter, John",,Requiem,,,2656,2,,Hinshaw,,,,,,LHSOM Library,SATB,Orchestra,,,Extended Work,2656
 id_3768,record,Choral,"Rutter, John",,Good Ale,,,1640,25,,Oxford,,,,,,LHSOM Library,SATB,Piano,,,"From ""When Icicles Hang""",1640
@@ -3872,9 +3872,9 @@ id_3870,record,Choral,"Shostakovich, Dmitri",,Sentence of Death,,,1659,39,,G. Sc
 id_3871,record,Choral,"Shostakovich, Dmitri",,"Have Courage, Friends",,,1667,40,,G. Schirmer,,,,,,LHSOM Library,SATB,"From 10 songs, Op. 88 A cappella",,,,1667
 id_3872,record,Choral,"Shure, R. Deane",,Thou Purple Morn Rejoice,,,724,40,,Hunleth Music,,,,,,LHSOM Library,SATB,A cappella,,,Anthem,724
 id_3873,record,Choral,"Shvedof, C.",,We Praise Thee,,,725,10,,Boston Music,,,,,,LHSOM Library,SATB,A cappella,,,,725
-id_3874,record,Choral,Sibelius,"Wood, Dale",This Is My Song,,,,,,Sacred Music Press,,,,,,LHSOM Library,SATB,,,,,
+id_3874,record,Choral,Sibelius,"Wood, Dale",This Is My Song,,,2009,,,Sacred Music Press,,,,,,LHSOM Library,SATB,,,,,2009
 id_3875,record,Choral,"Sibelius, Jean","Row, R. D.",Vale of Tuoni,,,726,28,,R. D. Row,,,,,,LHSOM Library,TTBB,A cappella,,,,726
-id_3876,record,Choral,"Sibelius, Jean","Wood, Dale",This Is My Song,,,,,,Sacred Music,,,,,,LHSOM Library,SATB,,,,,
+id_3876,record,Choral,"Sibelius, Jean","Wood, Dale",This Is My Song,,,1646,,,Sacred Music,,,,,,LHSOM Library,SATB,,,,,1646
 id_3877,record,Choral,"Sibelius, Jean",,"Onward, Ye Peoples!",,,2209,5,,Galaxy Music,,,,,,LHSOM Library,SSA,Piano,,,,2209
 id_3878,record,Choral,"Silver, Frederick",,The Twelve Days After Christmas,,,1040,25,,Belwin,,,,,,LHSOM Library,SATB,Piano,,,Christmas,1040
 id_3879,record,Choral,"Simeone, Harry",,Won't You Marry Me,,,728,15,,Shawnee Press,,,,,,LHSOM Library,SATB,Piano,,,,728
@@ -3897,11 +3897,11 @@ id_3895,record,Choral,"Sleeth, Natalie",,"Baby, What You Going To Be",,,1365,25,
 id_3896,record,Choral,"Sleeth, Natalie",,Feed My Lambs,,,2387,3,,Carl Fischer,,,,,,LHSOM Library,Unison,"Piano, 2 flutes",,,,2387
 id_3897,record,Choral,"Sleeth, Natalie",,Everywhere I go,,,2391,6,,Choristers Guild,,,,,,LHSOM Library,SA,Piano,,,,2391
 id_3898,record,Choral,"Smetana, Bedrich",,The Dance of the Comedians (from Bartered Bride),,,730,32,,Ilkan-Vogel,,,,,,LHSOM Library,SATB,Piano,,,,730
-id_3899,record,Choral,Smith,Stravinsky,Star-Spangled Banner,,,,,,,,,,,,LHSOM Library,SATB,A cappella,,,Patriotic,
-id_3900,record,Choral,Smith-Eldridge,,Come Home,,,,,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,Part song,
+id_3899,record,Choral,Smith,Stravinsky,Star-Spangled Banner,,,2023,,,,,,,,,LHSOM Library,SATB,A cappella,,,Patriotic,2023
+id_3900,record,Choral,Smith-Eldridge,,Come Home,,,1412,,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,Part song,1412
 id_3901,record,Choral,"Smith, Andrew",,Amid A Crowd Of Stars,,,2302,6,,No info,,,,,,LHSOM Library,SATB,"A cappella, 4 male solos",,,,2302
 id_3902,record,Choral,"Smith, Dennis E.",,May Your Sun Forever Shine,,,1507,30,,Alfred Choral Designs,,,,,,LHSOM Library,SATB,A cappella,,,,1507
-id_3903,record,Choral,"Smith, John",,Star Spangled Banner,,,,,,None,,,,,,LHSOM Library,SATB,A cappella,,,Patriotic,
+id_3903,record,Choral,"Smith, John",,Star Spangled Banner,,,733,,,None,,,,,,LHSOM Library,SATB,A cappella,,,Patriotic,733
 id_3904,record,Choral,"Smith, Katherine L.",,Let My People Go,,,732,73,,Paul A. Schmitt,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Spiritual,732
 id_3905,record,Choral,"Smith, Lani",,Now Thank We All Our God,,,2485,2,,Lorenz,,,,,,LHSOM Library,SATB,Piano,,,,2485
 id_3906,record,Choral,"Smith, Raymond A.",Aschenbrenner,The Kolo,,,734,21,,M. Witmark,,,,,,LHSOM Library,SATB,"A cappella, divisi",,,Folk,734
@@ -3919,8 +3919,8 @@ id_3917,record,Choral,Sondheim,Barduhn,Send in the Clowns,,,1279,20,,Creative Wo
 id_3918,record,Choral,"Sosa, Pablo","Henderson, Ed",El Cielo Canta Alegria,,,1774,80,,Earthsongs,,,,,,LHSOM Library,SATB,"2 guitars, violin, bass, flute and percussion",,,,1774
 id_3919,record,Choral,"Sousa, Phillip","Bukvich, Dan",Simper Fidelis,,,1672,25,,,,,,,,LHSOM Library,SATTB,A cappella,,,,1672
 id_3920,record,Choral,Southern Folk,"Bryan, Charles F.",Charlottown,,,1944,80,,Warner Bros.,,,,,,LHSOM Library,SATB,A cappella,,,,1944
-id_3921,record,Choral,"Spencer, Williameta",,At the Round Earth's Imagined Corners,,,,,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,,
-id_3922,record,Choral,"Spencer, Williametta",,At the Round Earth's Imagined Corners,,,,,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,,
+id_3921,record,Choral,"Spencer, Williameta",,At the Round Earth's Imagined Corners,,,1993,,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,,1993
+id_3922,record,Choral,"Spencer, Williametta",,At the Round Earth's Imagined Corners,,,1210,,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,,1210
 id_3923,record,Choral,"Spevacek, Linda",,Take Time For Love,,,913,20,,Jenson,,,,,,LHSOM Library,SAB,Piano,,,,913
 id_3924,record,Choral,"Spevacek, Linda",,Pass It Along,,,1015,40,,Jenson,,,,,,LHSOM Library,2 part,Piano,,,,1015
 id_3925,record,Choral,"Spevacek, Linda",,"Oh Sinner, Won't You Listen?",,,1017,20,,Jenson,,,,,,LHSOM Library,SSAB,Piano,,,Spiritual,1017
@@ -3973,8 +3973,8 @@ id_3971,record,Choral,"Stroope, Z. Randall",,The Conversion of Saul,,,1878,40,,A
 id_3972,record,Choral,"Stroope, Z. Randall",,Old Horatius Had a Farm,,,1880,80,,Mark Foster,,,,,,LHSOM Library,SATB,A cappella,,,,1880
 id_3973,record,Choral,"Stroope, Z. Randall",,Omnia Sol,,,1881,65,,Heritage Choral Series,,,,,,LHSOM Library,SATB,Piano,,,,1881
 id_3974,record,Choral,"Styne, Jule",,People,,,756,46,,Chappell,,,,,,LHSOM Library,SATB,A cappella,,,,756
-id_3975,record,Choral,"Styne, Jule","Ades, Hawley",Let It Snow! Let It Snow! Let It Snow!,,,,,,Shawnee Press,,,,,,LHSOM Library,SATB,Piano,,,Christmas,
-id_3976,record,Choral,"Styne, Jule","Hawley, Ades","Let It Snow, Let It Snow, Let It Snow",,,,,,Shawnee Press,,,,,,LHSOM Library,SATB,Piano,,,Christmas,
+id_3975,record,Choral,"Styne, Jule","Ades, Hawley",Let It Snow! Let It Snow! Let It Snow!,,,1383,,,Shawnee Press,,,,,,LHSOM Library,SATB,Piano,,,Christmas,1383
+id_3976,record,Choral,"Styne, Jule","Hawley, Ades","Let It Snow, Let It Snow, Let It Snow",,,2339,,,Shawnee Press,,,,,,LHSOM Library,SATB,Piano,,,Christmas,2339
 id_3977,record,Choral,"Suerte, Buen",,Green Grow The Rushes,,,1539,4,,Cambiata Press,,,,,,LHSOM Library,SSCB,Piano,,,English Folk Song,1539
 id_3978,record,Choral,"Suerte, Buen",,Saints Bound For Heaven,,,1584,5,,Cambiata Press,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,1584
 id_3979,record,Choral,"Suesse, Dana",Waring-Scott,The Night Is Young,,,757,68,,Words & Music,,,,,,LHSOM Library,SATB,"Piano, solo",,,,757
@@ -4149,8 +4149,8 @@ id_4147,record,Choral,"Warlock, Peter",,Balulalow and Midwinter,,,813,30,,Mimeog
 id_4148,record,Choral,"Warlock, Peter",,Three Carols,,,815,60,,Oxford University Press,,,,,,LHSOM Library,SATB,Piano,,,Christmas,815
 id_4149,record,Choral,"Warlock, Peter",,Bethlehem Down,,,814,99,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,814
 id_4150,record,Choral,"Warner, Richard",,Carols Old But New,,,1385,25,,H. W. Gray,,,,,,LHSOM Library,SATB,Piano or organ,,,Christmas choral suite,1385
-id_4151,record,Choral,"Warren, Harry",Rizzo,Lulu's Back In Town,,,,15,,,,,,,,LHSOM Library,SATB,"Piano, opt rhythm section",,,Jazz,
-id_4152,record,Choral,"Warren, Harry",,Lulu's Back In Town,,,,15,,Warner Bros,,,,,,LHSOM Library,SATB,"Piano, opt rhythm section",,,Jazz,
+id_4151,record,Choral,"Warren, Harry",Rizzo,Lulu's Back In Town,,,233,15,,,,,,,,LHSOM Library,SATB,"Piano, opt rhythm section",,,Jazz,233
+id_4152,record,Choral,"Warren, Harry",,Lulu's Back In Town,,,1233,15,,Warner Bros,,,,,,LHSOM Library,SATB,"Piano, opt rhythm section",,,Jazz,1233
 id_4153,record,Choral,"Washburn, Robert",,Spring Cantata,,,1499,12,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,A cappella,,,Cantata movements,1499
 id_4154,record,Choral,"Weatherly, Fred","Kupferschmid, Steve",Danny Boy,,,1544,6,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,Folk Tune,1544
 id_4155,record,Choral,"Weaver, Powell",,Windy Weather,,,817,25,,Oliver Ditson,,,,,,LHSOM Library,SATB,Piano,,,,817
@@ -4231,38 +4231,38 @@ id_4229,record,Choral,,"Helvey, Howard","Ride On, King Jesus",,,26,30,,Beckenhor
 id_4230,record,Choral,,"Althouse, Jay",Bright Morning Stars,,,38,30,,Alfred,,,,,,LHSOM Library,SATB,A cappella,,,Kentucky Folk Hymn,38
 id_4231,record,Choral,,"Thomas, Andre. J",Keep Your Lamps,,,73,25,,Hinshaw Music,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,73
 id_4232,record,Choral,,"Juneau, Thomas",Danny Boy,,,87,7,,Hal Leonard,,,,,,LHSOM Library,TTB,Piano,,,Irish folk song,87
-id_4233,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4233,record,Choral,,,TBD,,,92,,,,,,,,,LHSOM Library,,,,,,92
 id_4234,record,Choral,,"Wilberg, Mack",My Shepherd Will Supply My Need,,,200,30,,Hinshaw,,,,,,LHSOM Library,SATB,"Harp, Flute, oboe",,,American Folk Hymn,200
 id_4235,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4236,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4236,record,Choral,,,TBD,,,236,,,,,,,,,LHSOM Library,,,,,,236
 id_4237,record,Choral,,"Gaul, Harvey",Carol of the Doves,,,302,62,,J. Fischer & Brother,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,302
-id_4238,record,Choral,,"Gaul, Harvey","Christ of the Snow, The",,,,,,M. Witmark & Sons,,,,,,LHSOM Library,SATB,,,,Hungarian Christmas,
+id_4238,record,Choral,,"Gaul, Harvey","Christ of the Snow, The",,,304,,,M. Witmark & Sons,,,,,,LHSOM Library,SATB,,,,Hungarian Christmas,304
 id_4239,record,Choral,,,"Girl That I Marry, The",,,311,,,Mimeographed Copies,,,,,,LHSOM Library,,,,,,311
 id_4240,record,Choral,,,Gloucester Wassail (parts),,,327,35,,Mimeographed Copies,,,,,,LHSOM Library,SATB,A cappella,,,English folk song,327
 id_4241,record,Choral,,"Klement, David",Weepin' Mary,,,517,30,,Copies,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,517
 id_4242,record,Choral,,"Najers, Edmund",He's gone Away,,,558,50,,G. Schirmer,,,,,,LHSOM Library,SATB,"A cappella, two different publishers",,,,558
 id_4243,record,Choral,,O.C.C.,We've been a while a-wandering,,,579,60,,Neil a Kjos Music,,,,,,LHSOM Library,SATB,"A cappella, 2 different keys",,,Folk-Christmas,579
-id_4244,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4245,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4246,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4244,record,Choral,,,TBD,,,582,,,,,,,,,LHSOM Library,,,,,,582
+id_4245,record,Choral,,,TBD,,,583,,,,,,,,,LHSOM Library,,,,,,583
+id_4246,record,Choral,,,TBD,,,584,,,,,,,,,LHSOM Library,,,,,,584
 id_4247,record,Choral,,Shaw-Parker,Street Corner Spirituals,,,598,45,,Schirmer,,,,,,LHSOM Library,SATB,Guitar and drums,,,Spiritual,598
 id_4248,record,Choral,,,Patapan,,,600,40,,Mimeograph copy,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Christmas,600
-id_4249,record,Choral,,"Puerling, Gene",Deck the Halls,,,,,,Shawnee Press,,,,,,LHSOM Library,SSAATTBB,,,,,
-id_4250,record,Choral,,"Puerling, Gene",Silent Night,,,,,,Shawnee Press,,,,,,LHSOM Library,SSAATTBB,,,,,
-id_4251,record,Choral,,"Ringwald, Roy",Deep River,,,,,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,
-id_4252,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4249,record,Choral,,"Puerling, Gene",Deck the Halls,,,627,,,Shawnee Press,,,,,,LHSOM Library,SSAATTBB,,,,,627
+id_4250,record,Choral,,"Puerling, Gene",Silent Night,,,628,,,Shawnee Press,,,,,,LHSOM Library,SSAATTBB,,,,,628
+id_4251,record,Choral,,"Ringwald, Roy",Deep River,,,643,,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,643
+id_4252,record,Choral,,,TBD,,,667,,,,,,,,,LHSOM Library,,,,,,667
 id_4253,record,Choral,,"Schaeffer, W.",Pop Goes the Weasel,,,673,25,,M. Witmark & Sons,,,,,,LHSOM Library,SATB,A cappella,,,Folk,673
 id_4254,record,Choral,,"Schindler, Kurt",The Silversmith,,,678,63,,Oliver Ditson,,,,,,LHSOM Library,SATB,,,,,678
 id_4255,record,Choral,,"Scott, Tom",Gloucestershire Wassail,,,692,57,,Shawnee Press,,,,,,LHSOM Library,SATB,Piano,,,Folk-Christmas,692
 id_4256,record,Choral,,"Shaw, M.",I Sing of a Maiden,,,698,25,,Photocopy,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Christmas,698
 id_4257,record,Choral,,Shaw-Parker,Amazing Grace,,,699,43,,Schirmer,,,,,,LHSOM Library,SAATTBB,A cappella,,,,699
-id_4258,record,Choral,,Shaw-Parker,Angels We Have Heard On High,,,,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,Folk-Christmas,
-id_4259,record,Choral,,Shaw-Parker,"Bring a Torch, Jeanette, Isabella",,,,,,Lawson-Gould,,,,,,LHSOM Library,SATB,,,,Christmas,
+id_4258,record,Choral,,Shaw-Parker,Angels We Have Heard On High,,,700,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,Folk-Christmas,700
+id_4259,record,Choral,,Shaw-Parker,"Bring a Torch, Jeanette, Isabella",,,701,,,Lawson-Gould,,,,,,LHSOM Library,SATB,,,,Christmas,701
 id_4260,record,Choral,,Shaw-Parker,The Carol of the Birds,,,702,50,,G. Schirmer,,,,,,LHSOM Library,SATB,"A cappella, solo",,,Folk-Christmas,702
 id_4261,record,Choral,,Shaw-Parker,The Cherry Tree Carol,,,703,50,,G. Schirmer,,,,,,LHSOM Library,SATB,"A cappella, solo",,,Folk-Christmas,703
 id_4262,record,Choral,,"Shaw, Robert","Christmas Hymns--Set IV O Come, O Come, Emmanuel",,,704,50,,Shawnee Press,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,704
-id_4263,record,Choral,,"Shaw, Robert",Deck the Halls,,,,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,,
-id_4264,record,Choral,,Shaw-Parker,Fum! Fum! Fum!,,,,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,,
+id_4263,record,Choral,,"Shaw, Robert",Deck the Halls,,,705,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,,705
+id_4264,record,Choral,,Shaw-Parker,Fum! Fum! Fum!,,,706,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,,706
 id_4265,record,Choral,,Shaw-Parker,The First Nowell,,,707,30,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Christmas,707
 id_4266,record,Choral,,Shaw-Parker,The Holly and the Ivy,,,709,30,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Christmas,709
 id_4267,record,Choral,,Shaw-Parker,Hacia Belen Va Un Borrico,,,710,35,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Christmas,710
@@ -4271,9 +4271,9 @@ id_4269,record,Choral,,Shaw-Parker,It Came Upon a Midnight Clear,,,713,25,,G. Sc
 id_4270,record,Choral,,Shaw-Parker,Joy to the World,,,715,40,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Christmas,715
 id_4271,record,Choral,,Shaw-Parker,"Haul Away, Joe",,,716,20,,Lawson Gould,,,,,,LHSOM Library,TTBB,"A cappella, bari solo",,,,716
 id_4272,record,Choral,,Shaw-Parker,Susanni,,,717,40,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,German folk,717
-id_4273,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4274,record,Choral,,Shaw-Parker,Silent Night,,,,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,,
-id_4275,record,Choral,,Shaw-Parker,Masters In This Hall,,,,,,Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,,
+id_4273,record,Choral,,,TBD,,,718,,,,,,,,,LHSOM Library,,,,,,718
+id_4274,record,Choral,,Shaw-Parker,Silent Night,,,719,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,,719
+id_4275,record,Choral,,Shaw-Parker,Masters In This Hall,,,720,,,Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,,720
 id_4276,record,Choral,,Shaw-Parker,Now April Has Come,,,721,43,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Welsh Christmas Carol,721
 id_4277,record,Choral,,Shaw-Parker,What Child Is This?,,,722,25,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,722
 id_4278,record,Choral,,Shaw-Parker,Ya Viene la Vieja,,,723,40,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Christmas,723
@@ -4282,54 +4282,54 @@ id_4280,record,Choral,,Smith-Aschenbrenner,I Won't Kiss Katy,,,731,20,,Carl Fisc
 id_4281,record,Choral,,Smith-Aschenbrenner,The Peasant and His Oxen,,,735,25,,Carl Fischer,,,,,,LHSOM Library,SSAATTBB,"A cappella, divisi",,,Folk,735
 id_4282,record,Choral,,"Smith, William Henry",Plenty Good Room,,,737,25,,Neil A. Kjos Music,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Spiritual,737
 id_4283,record,Choral,,"Smith, William Henry",Tramping,,,738,15,,Neil A. Kjos Music,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Spiritual,738
-id_4284,record,Choral,,Parker And Shaw,The Twelve Days of Christmas,,,,,,Schirmer,,,,,,LHSOM Library,SATB,,,,,
+id_4284,record,Choral,,Parker And Shaw,The Twelve Days of Christmas,,,763,,,Schirmer,,,,,,LHSOM Library,SATB,,,,,763
 id_4285,record,Choral,,Terri,Coventry Carol,,,767,30,,Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,767
-id_4286,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4286,record,Choral,,,TBD,,,772,,,,,,,,,LHSOM Library,,,,,,772
 id_4287,record,Choral,,Topper,Good News,,,779,26,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Piano,,,Spiritual,779
 id_4288,record,Choral,,W. F.,Black Is The Color,,,807,40,,Mimeographed Copies,,,,,,LHSOM Library,SATB,parts,,,Folk,807
 id_4289,record,Choral,,Waring-Ringwald,Ole Buttermilk Sky,,,811,34,,Shawnee Press,,,,,,LHSOM Library,SATB,Piano,,,Folk,811
 id_4290,record,Choral,,Waring-Ringwald,Wyoming,,,812,35,,Shawnee Press,,,,,,LHSOM Library,SATB,Piano,,,Folk,812
-id_4291,record,Choral,,"Wasner, Franz",Angels We Have Heard On High,,,,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,Folk-Christmas,
+id_4291,record,Choral,,"Wasner, Franz",Angels We Have Heard On High,,,816,,,G. Schirmer,,,,,,LHSOM Library,SATB,,,,Folk-Christmas,816
 id_4292,record,Choral,,"Wheelright, L.","Go Down, Moses",,,826,20,,M. Witmark & Sons,,,,,,LHSOM Library,SATB,Piano,,,Folk-Spiritual,826
-id_4293,record,Choral,,"Whitford, Homer",Masters In This Hall,,,,,,Hall & McCreary,,,,,,LHSOM Library,SATB,A cappella,,,,
+id_4293,record,Choral,,"Whitford, Homer",Masters In This Hall,,,828,,,Hall & McCreary,,,,,,LHSOM Library,SATB,A cappella,,,,828
 id_4294,record,Choral,,"Whitford, Homer",Ski Song,,,829,42,,Hall & McCreary,,,,,,LHSOM Library,SSA,Piano,,,Folk,829
 id_4295,record,Choral,,"Wilhousky, Peter J.",Battle Hymn of the Republic,,,834,27,,Carl Fischer,,,,,,LHSOM Library,SSATTBB,Piano,,,Folk-Patriotic,834
 id_4296,record,Choral,,Williams,The Farmer's Daughter,,,838,14,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,,838
 id_4297,record,Choral,,"Williams, Claude",Halls Of Ivy,,,839,20,,Chappell,,,,,,LHSOM Library,SATB,Piano,,,,839
-id_4298,record,Choral,,"Wilson, Harry R.",Cindy,,,,,,Hall & McCreary,,,,,,LHSOM Library,SATB,,,,,
+id_4298,record,Choral,,"Wilson, Harry R.",Cindy,,,844,,,Hall & McCreary,,,,,,LHSOM Library,SATB,,,,,844
 id_4299,record,Choral,,"Wilson, Harry R.",Stodala Pumpa,,,847,7,,Bourne,,,,,,LHSOM Library,SAB,Piano,,,,847
 id_4300,record,Choral,,Winstead,Ida Red,,,848,68,,M. Witmark & Sons,,,,,,LHSOM Library,SATB,A cappella,,,Folk,848
 id_4301,record,Choral,,"Winstead, Kenneth",Old Joe Clark,,,849,45,,M. Witmark & Sons,,,,,,LHSOM Library,SATB,A cappella,,,Folk,849
 id_4302,record,Choral,,,Vespers Choral Collection,,,859,15,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,Piano,,,Collection,859
-id_4303,record,Choral,,"Burroughs, Bob",Deck the Halls,,,,,,Belwin-Mills,,,,,,LHSOM Library,SATB,,,,,
-id_4304,record,Choral,,"Smith, William Henry",Climbin' Up the Mountain,,,,,,Neil A. Kjos Music,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,
-id_4305,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4303,record,Choral,,"Burroughs, Bob",Deck the Halls,,,865,,,Belwin-Mills,,,,,,LHSOM Library,SATB,,,,,865
+id_4304,record,Choral,,"Smith, William Henry",Climbin' Up the Mountain,,,866,,,Neil A. Kjos Music,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,866
+id_4305,record,Choral,,,TBD,,,867,,,,,,,,,LHSOM Library,,,,,,867
 id_4306,record,Choral,,"Erb, James",Medieval Triptych,,,868,35,,Lawson-Gould,,,,,,LHSOM Library,SSA or TTB,A cappella,,,,868
-id_4307,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4307,record,Choral,,,TBD,,,869,,,,,,,,,LHSOM Library,,,,,,869
 id_4308,record,Choral,,,Jean Berger Workshop,,,900,30,,,,,,,,LHSOM Library,SATB,A cappella?,,,Mimeographed copies,900
-id_4309,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4309,record,Choral,,,TBD,,,912,,,,,,,,,LHSOM Library,,,,,,912
 id_4310,record,Choral,,"Shaw, Kirby",A Tribute To The Duke,,,961,40,,Hal Leonard,,,,,,LHSOM Library,SATB,Rhythm Section parts,,,Jazz,961
-id_4311,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4311,record,Choral,,,TBD,,,969,,,,,,,,,LHSOM Library,,,,,,969
 id_4312,record,Choral,,"Somers, Harry",Feller From Fortune,,,973,,,Walton Music,,,,,,LHSOM Library,SATB,Piano,,,,973
 id_4313,record,Choral,,"Bukvich, Dan",Over the Rainbow,,,974,20,,,,,,,,LHSOM Library,SATB,A cappella,,,,974
-id_4314,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4315,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4316,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4317,record,Choral,,"Willcocks, David",We Wish You a Merry Christmas,,,,,,Oxford University Press,,,,,,LHSOM Library,SATB,,,,Christmas,
+id_4314,record,Choral,,,TBD,,,981,,,,,,,,,LHSOM Library,,,,,,981
+id_4315,record,Choral,,,TBD,,,993,,,,,,,,,LHSOM Library,,,,,,993
+id_4316,record,Choral,,,TBD,,,1003,,,,,,,,,LHSOM Library,,,,,,1003
+id_4317,record,Choral,,"Willcocks, David",We Wish You a Merry Christmas,,,1008,,,Oxford University Press,,,,,,LHSOM Library,SATB,,,,Christmas,1008
 id_4318,record,Choral,,,Christmas Carols We Love To Sing,,,1009,15,,Theodore Presser,,,,,,LHSOM Library,SATB,"A cappella, music deteriorated",,,"Christmas, collection",1009
-id_4319,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4320,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4321,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4322,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4323,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4324,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4325,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4326,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4327,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4328,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4319,record,Choral,,,TBD,,,1010,,,,,,,,,LHSOM Library,,,,,,1010
+id_4320,record,Choral,,,TBD,,,1011,,,,,,,,,LHSOM Library,,,,,,1011
+id_4321,record,Choral,,,TBD,,,1016,,,,,,,,,LHSOM Library,,,,,,1016
+id_4322,record,Choral,,,TBD,,,1031,,,,,,,,,LHSOM Library,,,,,,1031
+id_4323,record,Choral,,,TBD,,,1035,,,,,,,,,LHSOM Library,,,,,,1035
+id_4324,record,Choral,,,TBD,,,1037,,,,,,,,,LHSOM Library,,,,,,1037
+id_4325,record,Choral,,,TBD,,,1038,,,,,,,,,LHSOM Library,,,,,,1038
+id_4326,record,Choral,,,TBD,,,1039,,,,,,,,,LHSOM Library,,,,,,1039
+id_4327,record,Choral,,,TBD,,,1047,,,,,,,,,LHSOM Library,,,,,,1047
+id_4328,record,Choral,,,TBD,,,1052,,,,,,,,,LHSOM Library,,,,,,1052
 id_4329,record,Choral,,"Rutter, John",Down By the Riverside,,,1061,40,,Oxford Press,,,,,,LHSOM Library,SATB,"Piano, orchestra",,,American folk,1061
-id_4330,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4331,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4330,record,Choral,,,TBD,,,1065,,,,,,,,,LHSOM Library,,,,,,1065
+id_4331,record,Choral,,,TBD,,,1077,,,,,,,,,LHSOM Library,,,,,,1077
 id_4332,record,Choral,,Wirt,"Four American Folk Tunes, No. 1 Op. 20",,,1113,60,,Belwin Mills,,,,,,LHSOM Library,SATB,Piano,,,American Folk,1113
 id_4333,record,Choral,,Stitzel,Autumn Leaves,,,1148,15,,Copies,,,,,,LHSOM Library,SATB,,,,Jazz,1148
 id_4334,record,Choral,,"Wilberg, Mack",Who Is Crying,,,1160,40,,Hinshaw Music,,,,,,LHSOM Library,SATB,A cappella,,,Latvian,1160
@@ -4340,114 +4340,114 @@ id_4338,record,Choral,,"Kerr, Anita","Take the ""A"" Train",,,1179,24,,Hal Leona
 id_4339,record,Choral,,"Wilberg, Mack",The Shepardess,,,1182,35,,Hinshaw,,,,,,LHSOM Library,SSATB,Piano,,,French Folk Tune,1182
 id_4340,record,Choral,,"Wilberg, Mack",What Would You Do If You Married A Soldier?,,,1183,35,,Hinshaw,,,,,,LHSOM Library,SSATB,Piano,,,Irish Folk Tune,1183
 id_4341,record,Choral,,"Shaw, Kirby",This Train,,,1211,10,,Hal Leonard,,,,,,LHSOM Library,SATB,Rhythm section,,,Jazz,1211
-id_4342,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4342,record,Choral,,,TBD,,,1253,,,,,,,,,LHSOM Library,,,,,,1253
 id_4343,record,Choral,,Stitzel,Don't Blame Me,,,1255,8,,Copies,,,,,,LHSOM Library,3-Part,Rhythm section,,,Jazz,1255
 id_4344,record,Choral,,Stitzel,September Song,,,1272,15,,Copies,,,,,,LHSOM Library,3-part,Rhythm section,,,Jazz,1272
 id_4345,record,Choral,,Moore,Space Captain,,,1274,2,,Copies,,,,,,LHSOM Library,5-part,,,,Jazz,1274
 id_4346,record,Choral,,,We Shall Overcome,,,1281,15,,Copies,,,,,,LHSOM Library,SATB,A cappella,,,American freedom song,1281
 id_4347,record,Choral,,,Kum Ba Yah,,,1282,15,,Photocopies,,,,,,LHSOM Library,SATB,A cappella,,,American,1282
-id_4348,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4349,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4348,record,Choral,,,TBD,,,1294,,,,,,,,,LHSOM Library,,,,,,1294
+id_4349,record,Choral,,,TBD,,,1303,,,,,,,,,LHSOM Library,,,,,,1303
 id_4350,record,Choral,,,Thirty-five Sacred Rounds and Canons from Four Centuries,,,1304,4,,Canyon,,,,,,LHSOM Library,Multiple,A cappella,,,Collection,1304
-id_4351,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4352,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4353,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4354,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4355,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4356,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4357,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4358,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4351,record,Choral,,,TBD,,,1312,,,,,,,,,LHSOM Library,,,,,,1312
+id_4352,record,Choral,,,TBD,,,1313,,,,,,,,,LHSOM Library,,,,,,1313
+id_4353,record,Choral,,,TBD,,,1314,,,,,,,,,LHSOM Library,,,,,,1314
+id_4354,record,Choral,,,TBD,,,1316,,,,,,,,,LHSOM Library,,,,,,1316
+id_4355,record,Choral,,,TBD,,,1318,,,,,,,,,LHSOM Library,,,,,,1318
+id_4356,record,Choral,,,TBD,,,1319,,,,,,,,,LHSOM Library,,,,,,1319
+id_4357,record,Choral,,,TBD,,,1327,,,,,,,,,LHSOM Library,,,,,,1327
+id_4358,record,Choral,,,TBD,,,1328,,,,,,,,,LHSOM Library,,,,,,1328
 id_4359,record,Choral,,"Lojeski, Ed",Boogie Woogie Bugle Boy,,,1333,6,,MCA Music,,,,,,LHSOM Library,SSA,Instrument parts included,,,Jazz,1333
 id_4360,record,Choral,,"Wegmann, Helen","Idaho, We Dearly Love Thee",,,1339,,,Photocopy,,,,,,LHSOM Library,,,,,Idaho Songs,1339
-id_4361,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4362,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4363,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4364,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4361,record,Choral,,,TBD,,,1340,,,,,,,,,LHSOM Library,,,,,,1340
+id_4362,record,Choral,,,TBD,,,1341,,,,,,,,,LHSOM Library,,,,,,1341
+id_4363,record,Choral,,,TBD,,,1342,,,,,,,,,LHSOM Library,,,,,,1342
+id_4364,record,Choral,,,TBD,,,1347,,,,,,,,,LHSOM Library,,,,,,1347
 id_4365,record,Choral,,"Wilberg, Mack",My Love's In Germany,,,1349,20,,Hinshaw Music,,,,,,LHSOM Library,SATB,4-hand piano,,,folk,1349
 id_4366,record,Choral,,"Simeone, Harry",Jingle Bells,,,1367,25,,Shawnee Press,,,,,,LHSOM Library,SATB,Piano with opt sleigh bells,,,Holiday,1367
-id_4367,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4368,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4369,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4370,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4371,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4367,record,Choral,,,TBD,,,1372,,,,,,,,,LHSOM Library,,,,,,1372
+id_4368,record,Choral,,,TBD,,,1380,,,,,,,,,LHSOM Library,,,,,,1380
+id_4369,record,Choral,,,TBD,,,1393,,,,,,,,,LHSOM Library,,,,,,1393
+id_4370,record,Choral,,,TBD,,,1394,,,,,,,,,LHSOM Library,,,,,,1394
+id_4371,record,Choral,,,TBD,,,1399,,,,,,,,,LHSOM Library,,,,,,1399
 id_4372,record,Choral,,"Work, John",This Little Light O' Mine,,,1407,25,,Galaxy Music,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,1407
 id_4373,record,Choral,,"Parker, Alice","Johnny, I Hardly Knew Ye",,,1410,26,,Lawson-Gould,,,,,,LHSOM Library,SATB,A cappella,,,Irish Tune,1410
 id_4374,record,Choral,,"Parker, Alice",Eight American Mountain Hymns,,,1411,21,,Lawson-Gould,,,,,,LHSOM Library,SATB,A cappella,,,American Hymns,1411
 id_4375,record,Choral,,,Madrigal Dinner Service Music,,,1436,1,,copies,,,,,,LHSOM Library,SATB,,,,Program compilation,1436
-id_4376,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4377,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4376,record,Choral,,,TBD,,,1442,,,,,,,,,LHSOM Library,,,,,,1442
+id_4377,record,Choral,,,TBD,,,1458,,,,,,,,,LHSOM Library,,,,,,1458
 id_4378,record,Choral,,Shaw-Parker,I Got Shoes,,,1462,7,,Lawson-Gould,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,1462
 id_4379,record,Choral,,"Swenson, Warren","All My Trials, Lord",,,1466,18,,Galaxy Music,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,1466
 id_4380,record,Choral,,"Spevacek, Linda",The Turtle Dove,,,1468,25,,Jenson,,,,,,LHSOM Library,SATB,flute,,,Folk,1468
-id_4381,record,Choral,,Shaw-Parker,Sometimes I Feel Like A Motherless Child,,,,8,,Lawson Gould,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,
-id_4382,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4381,record,Choral,,Shaw-Parker,Sometimes I Feel Like A Motherless Child,,,1471,8,,Lawson Gould,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,1471
+id_4382,record,Choral,,,TBD,,,1473,,,,,,,,,LHSOM Library,,,,,,1473
 id_4383,record,Choral,,"Nygard, Carl Jr.",His Truth Is Marching On,,,1479,5,,Hinshaw Music,,,,,,LHSOM Library,SATB,Piano,,,Sacred,1479
 id_4384,record,Choral,,"Schalk, Carl","Jesus. Jesus, Rest Your Head",,,1502,14,,Concordia,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,1502
-id_4385,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4386,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4387,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4388,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4389,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4385,record,Choral,,,TBD,,,1503,,,,,,,,,LHSOM Library,,,,,,1503
+id_4386,record,Choral,,,TBD,,,1504,,,,,,,,,LHSOM Library,,,,,,1504
+id_4387,record,Choral,,,TBD,,,1505,,,,,,,,,LHSOM Library,,,,,,1505
+id_4388,record,Choral,,,TBD,,,1506,,,,,,,,,LHSOM Library,,,,,,1506
+id_4389,record,Choral,,,TBD,,,1531,,,,,,,,,LHSOM Library,,,,,,1531
 id_4390,record,Choral,,"Taylor, Noxie J.",The Twenty-Third Psalm,,,1532,5,,Cambiata Press,,,,,,LHSOM Library,SSA (T/B),Piano,,,Sacred,1532
 id_4391,record,Choral,,"Riley, David",Bingo,,,1538,4,,Cambiata Press,,,,,,LHSOM Library,SATB,A cappella,,,German folk song,1538
 id_4392,record,Choral,,,Song of Liberty,,,1546,5,,Hinshaw,,,,,,LHSOM Library,SAB,Piano,,,Patriotic,1546
-id_4393,record,Choral,,"Springfield, J. Goodson",Fum! Fum! Fum!,,,,,,Cambiata Press,,,,,,LHSOM Library,SATB,,,,,
-id_4394,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4395,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4396,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4393,record,Choral,,"Springfield, J. Goodson",Fum! Fum! Fum!,,,1583,,,Cambiata Press,,,,,,LHSOM Library,SATB,,,,,1583
+id_4394,record,Choral,,,TBD,,,1585,,,,,,,,,LHSOM Library,,,,,,1585
+id_4395,record,Choral,,,TBD,,,1598,,,,,,,,,LHSOM Library,,,,,,1598
+id_4396,record,Choral,,,TBD,,,1623,,,,,,,,,LHSOM Library,,,,,,1623
 id_4397,record,Choral,,"Snyder, Audrey",Who Will Give Me Wings,,,1627,20,,Hal Leonard,,,,,,LHSOM Library,SATB,"Piano, solo instrument",,,Jewish Melody,1627
 id_4398,record,Choral,,"Smith, Gregg",Blow the Candles Out,,,1630,35,,G. Schirmer/Hal Leonard,,,,,,LHSOM Library,SATB,A cappella,,,Part song,1630
-id_4399,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4400,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4401,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4399,record,Choral,,,TBD,,,1632,,,,,,,,,LHSOM Library,,,,,,1632
+id_4400,record,Choral,,,TBD,,,1636,,,,,,,,,LHSOM Library,,,,,,1636
+id_4401,record,Choral,,,TBD,,,1637,,,,,,,,,LHSOM Library,,,,,,1637
 id_4402,record,Choral,,"Robinson, Russell",Happy Birthday To You,,,1638,20,,Warner Bros,,,,,,LHSOM Library,SATB,Piano,,,Traditional,1638
 id_4403,record,Choral,,"Twine, Linda",Sit Down Servant,,,1639,35,,Hinshaw Music,,,,,,LHSOM Library,SATB,Piano,,,Spiritual,1639
-id_4404,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4405,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4406,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4404,record,Choral,,,TBD,,,1640,,,,,,,,,LHSOM Library,,,,,,1640
+id_4405,record,Choral,,,TBD,,,1660,,,,,,,,,LHSOM Library,,,,,,1660
+id_4406,record,Choral,,,TBD,,,1715,,,,,,,,,LHSOM Library,,,,,,1715
 id_4407,record,Choral,,"Dilworth, Rollo",Walk in Jerusalem,,,1727,45,,Hal Leonard,,,,,,LHSOM Library,SATB,Piano,,,Spiritual,1727
-id_4408,record,Choral,,"Hancock, Gerre",Deep River,,,,,,Hal Leonard,,,,,,LHSOM Library,SSAATTBB,A cappella,,,Spiritual,
+id_4408,record,Choral,,"Hancock, Gerre",Deep River,,,1733,,,Hal Leonard,,,,,,LHSOM Library,SSAATTBB,A cappella,,,Spiritual,1733
 id_4409,record,Choral,,"Facer, Charles","Joseph Dearest, Joseph Mine",,,1737,50,,Sacred Music Press,,,,,,LHSOM Library,SSATTBB,A cappella with solos,,,Christmas,1737
-id_4410,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4410,record,Choral,,,TBD,,,1760,,,,,,,,,LHSOM Library,,,,,,1760
 id_4411,record,Choral,,"Hatfield, Stephen",Son de Camaguey,,,1765,,,Boosey and Hawkes,,,,,,LHSOM Library,SATB,Percussion,,,Cuban Folk Song,1765
-id_4412,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4412,record,Choral,,,TBD,,,1775,,,,,,,,,LHSOM Library,,,,,,1775
 id_4413,record,Choral,,"Johnson, Ralph","Praise to the Lord (processional, Cameroon)",,,1794,50,,Earthsongs,,,,,,LHSOM Library,SATB,"A cappella, percussion",,,,1794
-id_4414,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4414,record,Choral,,,TBD,,,1809,,,,,,,,,LHSOM Library,,,,,,1809
 id_4415,record,Choral,,"Marshall, Christopher","Minoi, Minoi",,,1810,30,,Alliance,,,,,,LHSOM Library,SATB,A cappella,,,,1810
 id_4416,record,Choral,,"Mckelvy, James",The Star-Spangled Banner,,,1816,80,,Shawnee Press,,,,,,LHSOM Library,"SSA, TTBB, SATB",Brass and timpani,,,,1816
 id_4417,record,Choral,,"Murphy, James",When You Wish Upon a Star,,,1836,20,,,,,,,,LHSOM Library,SATB,A cappella divisi,,,,1836
-id_4418,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4418,record,Choral,,,TBD,,,1875,,,,,,,,,LHSOM Library,,,,,,1875
 id_4419,record,Choral,,"Still, William Grant",I Feel Like My Time Ain't Long,,,1876,60,,Theodore Presser,,,,,,LHSOM Library,SATB,A cappella,,,Spiritual,1876
-id_4420,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4420,record,Choral,,,TBD,,,1883,,,,,,,,,LHSOM Library,,,,,,1883
 id_4421,record,Choral,,"Wilberg, Mack",O Whistle and I'll Come to Ye,,,1911,75,,Hinshaw Music,,,,,,LHSOM Library,SATB,Piano duet,,,,1911
 id_4422,record,Choral,,"Hailey, William",Not One Sparrow Is Forgotten,,,1957,25,,Colla Voce,,,,,,LHSOM Library,SATB,A cappella,,,,1957
 id_4423,record,Choral,,"Moore, Undine S.","Daniel, Daniel, Servant of the Lord",,,1970,26,,Belwin/Alfred,,,,,,LHSOM Library,SATB,A cappella divisi,,,,1970
-id_4424,record,Choral,,"Barnett, Carol",Cindy,,,,,,Colla voce,,,,,,LHSOM Library,SATB,,,,,
+id_4424,record,Choral,,"Barnett, Carol",Cindy,,,1994,,,Colla voce,,,,,,LHSOM Library,SATB,,,,,1994
 id_4425,record,Choral,,"Wilco Is, David",Master in This Hall,,,2000,20,,Oxford,,,,,,LHSOM Library,SATB,Piano,,,Christmas,2000
 id_4426,record,Choral,,"Rutter, John","Blow, Blow, Thou Winter Wind",,,2003,37,,Oxford,,,,,,LHSOM Library,SATB,Piano,,,,2003
 id_4427,record,Choral,,"Gibbs, Stacey V.",I don' feel no ways tired,,,2008,24,,Alliance,,,,,,LHSOM Library,SATB,A cappella,,,,2008
 id_4428,record,Choral,,"Thomas, Andre",African Noel,,,2010,2,,Lawson Gould,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,2010
-id_4429,record,Choral,,Nunez And Papoulis,Deck the Halls,,,,,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,,,,,
+id_4429,record,Choral,,Nunez And Papoulis,Deck the Halls,,,2031,,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,,,,,2031
 id_4430,record,Choral,,"Gibbs, Stacey V.",Way Over in Beulah Lan',,,2032,30,,Gentry,,,,,,LHSOM Library,SATB,A cappella,,,,2032
 id_4431,record,Choral,,"Quick, J.",Loch Lomand,,,2035,13,,Musical Resources,,,,,,LHSOM Library,TTBB,A cappella,,,,2035
 id_4432,record,Choral,,"Kallman, Sten",Gede Nibo,,,2038,35,,earthsongs,,,,,,LHSOM Library,SATB,Percussion a cappella,,,,2038
 id_4433,record,Choral,,"Lawson, Phillip",Down to the River to Pray,,,2040,6,,Hal Leonard,,,,,,LHSOM Library,SATB,A cappella divisi,,,,2040
-id_4434,record,Choral,,"Rutter, John",We Wish You a Merry Christmas,,,,,,Hinshaw Music,,,,,,LHSOM Library,SATB,,,,Christmas,
+id_4434,record,Choral,,"Rutter, John",We Wish You a Merry Christmas,,,2047,,,Hinshaw Music,,,,,,LHSOM Library,SATB,,,,Christmas,2047
 id_4435,record,Choral,,"Sund, Robert",The Drunken Sailor (Sea Chantey),,,2064,30,,Walton Music,,,,,,LHSOM Library,SATB,A cappella,,,,2064
 id_4436,record,Choral,,"Lojeski, Ed",Let It Snow! Let It Snow! Let It Snow!,,,2069,30,,Hal Leonard,,,,,,LHSOM Library,SATB,Piano,,,Christmas,2069
-id_4437,record,Choral,,"Ivo, Antognini",Silent Night,,,,,,Schirmer,,,,,,LHSOM Library,SATB,,,,,
-id_4438,record,Choral,,"Staheli, Ronald",How Can I Keep From Singing,,,,25,,Hinshaw Music,,,,,,LHSOM Library,SATB,,,,Quaker Hymn Tune,
+id_4437,record,Choral,,"Ivo, Antognini",Silent Night,,,2070,,,Schirmer,,,,,,LHSOM Library,SATB,,,,,2070
+id_4438,record,Choral,,"Staheli, Ronald",How Can I Keep From Singing,,,2072,25,,Hinshaw Music,,,,,,LHSOM Library,SATB,,,,Quaker Hymn Tune,2072
 id_4439,record,Choral,,"Sargent, Malcolm",Cowboy Carol,,,2076,30,,Oxford,,,,,,LHSOM Library,SSAATTBB,A cappella,,,Christmas,2076
 id_4440,record,Choral,,"Hagen, Jocelyn",Deck the Hall,,,2079,15,,Jocelyn Hagen Publishing,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,2079
-id_4441,record,Choral,,"Rutter, John",The Twelve Days of Christmas,,,,,,Oxford,,,,,,LHSOM Library,SATB,,,,,
+id_4441,record,Choral,,"Rutter, John",The Twelve Days of Christmas,,,2085,,,Oxford,,,,,,LHSOM Library,SATB,,,,,2085
 id_4442,record,Choral,,"Jalkeus, Margareta",Prepare the Way,,,2088,30,,Walton,,,,,,LHSOM Library,SATTB,A cappella,,,,2088
 id_4443,record,Choral,,"Hunter, Ralph",Viva Tutti,,,2089,15,,Lawson Gould,,,,,,LHSOM Library,TTB,A cappella,,,,2089
 id_4444,record,Choral,,"Hunter, Ralph",The Streets of Laredo,,,2090,16,,Lawson Gould,,,,,,LHSOM Library,TTBB,Piano,,,,2090
 id_4445,record,Choral,,"Hunter, Ralph And Shaw, Robert",Grandfather's Clock,,,2093,8,,Lawson Gould,,,,,,LHSOM Library,TTBB,A cappella,,,,2093
 id_4446,record,Choral,,"Ringwald, Roy",Believe Me If All Those Endearing Young Charms,,,2100,25,,Shawnee Press,,,,,,LHSOM Library,TTBB,Piano,,,,2100
 id_4447,record,Choral,,"Ringwald, Roy",Gospel Ship,,,2106,7,,Words and Music inc.,,,,,,LHSOM Library,TTBB,Piano,,,Spiritual,2106
-id_4448,record,Choral,,"Smith, Henry",Climbin' Up the Mountain,,,,,,The Neil A Kjos Music Co,,,,,,LHSOM Library,TTBB,A cappella,,,Spiritual,
-id_4449,record,Choral,,"Smith, William",Sometimes I Feel Like a Motherless Child,,,,8,,Neil A Kjos Music Co,,,,,,LHSOM Library,TTBB,A cappella,,,Spiritual,
+id_4448,record,Choral,,"Smith, Henry",Climbin' Up the Mountain,,,2107,,,The Neil A Kjos Music Co,,,,,,LHSOM Library,TTBB,A cappella,,,Spiritual,2107
+id_4449,record,Choral,,"Smith, William",Sometimes I Feel Like a Motherless Child,,,2108,8,,Neil A Kjos Music Co,,,,,,LHSOM Library,TTBB,A cappella,,,Spiritual,2108
 id_4450,record,Choral,,"Dawson, William",There Is a Balm In Gilead,,,2109,20,,Music Press,,,,,,LHSOM Library,TTBB,A capella,,,Spiritual,2109
 id_4451,record,Choral,,"Holler, John",Four Slovak Christmas Carols,,,2110,25,,Ted Brown Music,,,,,,LHSOM Library,TTBB,A cappella,,,Christmas,2110
 id_4452,record,Choral,,"Shaw, Robert","If I Got My Ticket, Can I Ride?",,,2111,24,,Schirmer,,,,,,LHSOM Library,TBB,"A cappella, tenor solo",,,Spiritual,2111
@@ -4465,7 +4465,7 @@ id_4463,record,Choral,,"Fletcher, Percy E.",John Peel,,,2126,30,,Schirmer,,,,,,L
 id_4464,record,Choral,,Parker & Shaw,Stormalong John,,,2127,25,,Lawson Gould,,,,,,LHSOM Library,TTBB,"A cappella, baritone solo",,,,2127
 id_4465,record,Choral,,Parker & Shaw,Bound For the Rio Grande,,,2128,13,,Lawson Gould,,,,,,LHSOM Library,TTBB,"A cappella, tenor solo",,,,2128
 id_4466,record,Choral,,"Decormier, Robert",La Canzone Del Vino (A Song to the Wine),,,2135,32,,Lawson Gould,,,,,,LHSOM Library,TTBB,A cappella,,,,2135
-id_4467,record,Choral,,"De Paur, Leonard",God Rest Ye Merry Gentlemen,,,,,,Lawson Gould,,,,,,LHSOM Library,TTBB,,,,Christmas,
+id_4467,record,Choral,,"De Paur, Leonard",God Rest Ye Merry Gentlemen,,,2136,,,Lawson Gould,,,,,,LHSOM Library,TTBB,,,,Christmas,2136
 id_4468,record,Choral,,Parker & Shaw,L'Amour de May,,,2137,25,,Lawson Gould,,,,,,LHSOM Library,TTBB,"A cappella, tenor solo",,,,2137
 id_4469,record,Choral,,"De Cormier, Robert",Hunter's Song,,,2141,33,,Lawson Gould,,,,,,LHSOM Library,TTBB,"A cappella, opt. Accordion, guitar, string bass",,,,2141
 id_4470,record,Choral,,Parker & Shaw,Lowlands,,,2144,5,,Lawson Gould,,,,,,LHSOM Library,TTBB,A cappella,,,,2144
@@ -4474,22 +4474,22 @@ id_4472,record,Choral,,"Zaninelli, Luigi",The Water Is Wide,,,2148,20,,Shawnee P
 id_4473,record,Choral,,"Burleigh, H.T.",Ezekiel Saw de Wheel,,,2149,8,,G. Recordings & Co,,,,,,LHSOM Library,TTBB,A cappella,,,,2149
 id_4474,record,Choral,,"Grotenhuis, Dale",Songs of the Masters,,,2150,12,,Jenson,,,,,,LHSOM Library,TTBB,Piano,,,,2150
 id_4475,record,Choral,,Parker & Shaw,A-Roving,,,2151,6,,Lawson Gould,,,,,,LHSOM Library,TTBB,"A cappella, tenor solo",,,,2151
-id_4476,record,Choral,,"Shaw, Robert",Set Down Servant!,,,,,,Shawnee Press,,,,,,LHSOM Library,TTBB,,,,Spiritual,
+id_4476,record,Choral,,"Shaw, Robert",Set Down Servant!,,,2154,,,Shawnee Press,,,,,,LHSOM Library,TTBB,,,,Spiritual,2154
 id_4477,record,Choral,,"Norman, Ken",Camelot,,,2155,20,,no info,,,,,,LHSOM Library,TTBB,A cappella,,,,2155
 id_4478,record,Choral,,Parker & Shaw,The Drummer and the Cook,,,2156,18,,Lawson Gould,,,,,,LHSOM Library,TTBB,"A cappella, divisi",,,,2156
 id_4479,record,Choral,,"Lee, Giles",Poor Lonesome Cowboy,,,2158,5,,Cambiata Press,,,,,,LHSOM Library,TTBB,A cappella,,,,2158
 id_4480,record,Choral,,"Thomas, Andre J.","Swing Down, Chariot",,,2166,1,,Heritage Music,,,,,,LHSOM Library,TTBB,A cappella,,,,2166
 id_4481,record,Choral,,"Lamont, A.R.",A Scotch Christmas Carol,,,2167,35,,Neil A. Kjos,,,,,,LHSOM Library,SSA,Piano,,,Christmas,2167
-id_4482,record,Choral,,"Gaul, Harvey",The Christ of the Snow,,,,,,M. Witmark and sons,,,,,,LHSOM Library,SSA,,,,Hungarian Christmas,
+id_4482,record,Choral,,"Gaul, Harvey",The Christ of the Snow,,,2169,,,M. Witmark and sons,,,,,,LHSOM Library,SSA,,,,Hungarian Christmas,2169
 id_4483,record,Choral,,"Luvaa, Morten",Ho-la-li,,,2170,6,,C.C Birchard,,,,,,LHSOM Library,SSA,Piano,,,Bavarian Folk Song,2170
 id_4484,record,Choral,,"Davis, Katherine",Barbara Allen,,,2171,25,,Galaxy Music,,,,,,LHSOM Library,SSA,A cappella,,,,2171
 id_4485,record,Choral,,"Woodgate, Leslie","The Wraggle Taggle Gipsies, O!",,,2173,60,,Schirmer,,,,,,LHSOM Library,SSA,Piano,,,English Folk Song,2173
 id_4486,record,Choral,,"Wendy, Theophil",Roundelay,,,2174,60,,Carl Fischer,,,,,,LHSOM Library,SSA,Piano,,,Norwegian Folk Song,2174
 id_4487,record,Choral,,"Harris, Victor",Griselidis,,,2175,10,,Oliver Ditson,,,,,,LHSOM Library,SSAA,Opt. Piano,,,,2175
 id_4488,record,Choral,,"Fletcher, Percy E.",The Galway Piper,,,2177,22,,Oliver Ditson,,,,,,LHSOM Library,SSA,Piano,,,Irish Air,2177
-id_4489,record,Choral,,"Riegger, Wallingford",Dark Eyes,,,,,,Harold Flammer,,,,,,LHSOM Library,SSA,Piano,,,,
+id_4489,record,Choral,,"Riegger, Wallingford",Dark Eyes,,,2178,,,Harold Flammer,,,,,,LHSOM Library,SSA,Piano,,,,2178
 id_4490,record,Choral,,"Pitcher, Gladys",Turn Ye To Me,,,2179,45,,CC Birchard,,,,,,LHSOM Library,SSA,Piano,,,Scottish Melody,2179
-id_4491,record,Choral,,"Treharne, Bryceson",Dark Eyes,,,,,,Boston Music,,,,,,LHSOM Library,SSA,Piano,,,,
+id_4491,record,Choral,,"Treharne, Bryceson",Dark Eyes,,,2180,,,Boston Music,,,,,,LHSOM Library,SSA,Piano,,,,2180
 id_4492,record,Choral,,"Scott, Tom",The Erie Canal,,,2181,50,,Words and Music,,,,,,LHSOM Library,SSA,"Piano, alto solo",,,American Work Song,2181
 id_4493,record,Choral,,Gevaert And Remington,"Sleep, Holy Child",,,2215,40,,CC Birchard,,,,,,LHSOM Library,SSA,A cappella,,,"Christmas, French",2215
 id_4494,record,Choral,,"Dickinson, Clarence","Bring a Torch, Jeannette, Isabella",,,2216,50,,H.W. Gray,,,,,,LHSOM Library,SSA,A cappella,,,"Christmas, French",2216
@@ -4505,12 +4505,12 @@ id_4503,record,Choral,,"Schindler, Kurt",The Adoration of the Shepherds,,,2252,1
 id_4504,record,Choral,,"Harris, Jerry Wesley",My Heart Is Fully Of Merriment and Joy,,,2261,17,,Belwin Mills,,,,,,LHSOM Library,SSA,A cappella,,,Norwegian Folk Song,2261
 id_4505,record,Choral,,"Shields, Valerie",S'vivon (Spinning Top),,,2264,45,,Earthsongs,,,,,,LHSOM Library,SA,"Piano, 2 violins",,,Jewish Folk Song,2264
 id_4506,record,Choral,,"Ehret, Walter",Hear the Bells! See the Star!,,,2270,5,,McAfee Music,,,,,,LHSOM Library,SA or TB,Piano,,,Polish Christmas Carol,2270
-id_4507,record,Choral,,"Collins, Don L.",Wondrous Love,,,,,,Cambiata Press,,,,,,LHSOM Library,SA or TB,,,,Southern Folk Song,
+id_4507,record,Choral,,"Collins, Don L.",Wondrous Love,,,2271,,,Cambiata Press,,,,,,LHSOM Library,SA or TB,,,,Southern Folk Song,2271
 id_4508,record,Choral,,"Collins, Don L.","Pray Tell Me, Oh, Please Tell Me",,,2272,4,,Cambiata Press,,,,,,LHSOM Library,SA or TB,Piano,,,Mexican,2272
-id_4509,record,Choral,,"Walker, Gwyneth",How Can I Keep From Singing?,,,,25,,Schirmer,,,,,,LHSOM Library,SATB,,,,Quaker Hymn Tune,
+id_4509,record,Choral,,"Walker, Gwyneth",How Can I Keep From Singing?,,,2291,25,,Schirmer,,,,,,LHSOM Library,SATB,,,,Quaker Hymn Tune,2291
 id_4510,record,Choral,,"Engelhardt, Michael",Gaudete,,,2314,25,,Walton,,,,,,LHSOM Library,SSA,"Divisi, Percussion parts included",,,Christmas,2314
 id_4511,record,Choral,,"Elsner, Christy",La Monja Blanca,,,2319,24,,Shawnee Press,,,,,,LHSOM Library,SSA,A cappella,,,Spanish folk song,2319
-id_4512,record,Choral,,"Turner, Kelly J.","God Rest Ye Merry, Gentlemen",,,,,,Hinshaw Music,,,,,,LHSOM Library,TTBB,,,,Christmas,
+id_4512,record,Choral,,"Turner, Kelly J.","God Rest Ye Merry, Gentlemen",,,2322,,,Hinshaw Music,,,,,,LHSOM Library,TTBB,,,,Christmas,2322
 id_4513,record,Choral,,"Ames, Jeffery L.",Tschotsholoza,,,2327,24,,Walton Music,,,,,,LHSOM Library,TTBB,"Congas, Djembe, tenor solo",,,South African Freedom Song,2327
 id_4514,record,Choral,,"Ames, Jeffery L.",Let Everything That Hath Breath,,,2329,20,,Earthsongs,,,,,,LHSOM Library,SATB,Piano,,,Gospel,2329
 id_4515,record,Choral,,"Barduhn, Dave",Here's That Rainy Day,,,2332,3,,Creative World Music,,,,,,LHSOM Library,3 voice,Piano and bass,,,,2332
@@ -4519,10 +4519,10 @@ id_4517,record,Choral,,"Hatfield, Stephen",Vus Vet Zayn,,,2346,17,,Colla Voce,,,
 id_4518,record,Choral,,"Pinsonneault, Albert",Shosholoza,,,2375,21,,Earthsongs,,,,,,LHSOM Library,SSA,A cappella,,,South African Work Song,2375
 id_4519,record,Choral,,"Kirchner, Shawn",Unclouded Day,,,2380,23,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,"A cappella, divisi",,,,2380
 id_4520,record,Choral,,"Wilberg, Mack",Death Shall Not Destroy My Comfort,,,2382,2,,Oxford,,,,,,LHSOM Library,SATB,"4-hand piano, divisi",,,,2382
-id_4521,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4522,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4521,record,Choral,,,TBD,,,2383,,,,,,,,,LHSOM Library,,,,,,2383
+id_4522,record,Choral,,,TBD,,,2385,,,,,,,,,LHSOM Library,,,,,,2385
 id_4523,record,Choral,,"Ehret, Walter",The Star Carol,,,2390,7,,Shawnee Press,,,,,,LHSOM Library,SSA,Piano,,,Christmas,2390
-id_4524,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4524,record,Choral,,,TBD,,,2392,,,,,,,,,LHSOM Library,,,,,,2392
 id_4525,record,Choral,,Parker & Shaw,Vive L'Amour,,,2393,2,,Lawson Gould,,,,,,LHSOM Library,TTBB,"Baritone solo, A cappella",,,,2393
 id_4526,record,Choral,,"Weston, Mark",Christmas...In About Three Minutes,,,2398,2,,Heritage,,,,,,LHSOM Library,SA,Piano,,,,2398
 id_4527,record,Choral,,"Riff, Joseph",Three Russian Folk Songs,,,2399,2,,Fischer,,,,,,LHSOM Library,SA,"Piano, flute",,,,2399
@@ -4543,97 +4543,97 @@ id_4541,record,Choral,,"Arch, Gwyn",Sleeps The Noon In The Deep Blue Sky,,,2467,
 id_4542,record,Choral,,"Arch, Gwyn",Hebridean Waulking Song,,,2472,2,,Boosey & Hawkes,,,,,,LHSOM Library,SATB,A cappella,,,,2472
 id_4543,record,Choral,,"Thompson, Van Denman",The Garden Hymn,,,2483,2,,Sacred Music Press,,,,,,LHSOM Library,SATB,Piano,,,"Melody from ""Southern Harmony"" 1854",2483
 id_4544,record,Choral,,"Beck, John Ness",Hymn For Easter Day,,,2500,2,,Theodore Presser,,,,,,LHSOM Library,SATB,"Piano/Organ, 3 trumpets",,,,2500
-id_4545,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4546,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4547,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4548,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4549,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4550,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4551,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4552,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4553,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4554,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4555,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4556,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4557,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4558,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4559,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4560,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4561,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4562,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4563,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4564,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4565,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4566,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4567,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4568,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4569,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4570,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4571,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4572,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4573,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4574,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4575,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4576,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4577,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4578,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4579,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4580,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4581,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4582,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4583,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4584,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4585,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4586,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4587,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4588,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4589,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4590,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4591,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4592,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4593,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4594,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4595,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4596,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4597,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4598,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4599,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4600,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4601,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4602,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4603,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4604,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4605,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4606,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4607,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4608,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4609,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4610,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4611,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4612,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4613,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4614,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4615,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
-id_4616,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4545,record,Choral,,,TBD,,,2527,,,,,,,,,LHSOM Library,,,,,,2527
+id_4546,record,Choral,,,TBD,,,2528,,,,,,,,,LHSOM Library,,,,,,2528
+id_4547,record,Choral,,,TBD,,,2529,,,,,,,,,LHSOM Library,,,,,,2529
+id_4548,record,Choral,,,TBD,,,2530,,,,,,,,,LHSOM Library,,,,,,2530
+id_4549,record,Choral,,,TBD,,,2532,,,,,,,,,LHSOM Library,,,,,,2532
+id_4550,record,Choral,,,TBD,,,2533,,,,,,,,,LHSOM Library,,,,,,2533
+id_4551,record,Choral,,,TBD,,,2534,,,,,,,,,LHSOM Library,,,,,,2534
+id_4552,record,Choral,,,TBD,,,2535,,,,,,,,,LHSOM Library,,,,,,2535
+id_4553,record,Choral,,,TBD,,,2536,,,,,,,,,LHSOM Library,,,,,,2536
+id_4554,record,Choral,,,TBD,,,2537,,,,,,,,,LHSOM Library,,,,,,2537
+id_4555,record,Choral,,,TBD,,,2538,,,,,,,,,LHSOM Library,,,,,,2538
+id_4556,record,Choral,,,TBD,,,2539,,,,,,,,,LHSOM Library,,,,,,2539
+id_4557,record,Choral,,,TBD,,,2540,,,,,,,,,LHSOM Library,,,,,,2540
+id_4558,record,Choral,,,TBD,,,2541,,,,,,,,,LHSOM Library,,,,,,2541
+id_4559,record,Choral,,,TBD,,,2542,,,,,,,,,LHSOM Library,,,,,,2542
+id_4560,record,Choral,,,TBD,,,2543,,,,,,,,,LHSOM Library,,,,,,2543
+id_4561,record,Choral,,,TBD,,,2544,,,,,,,,,LHSOM Library,,,,,,2544
+id_4562,record,Choral,,,TBD,,,2545,,,,,,,,,LHSOM Library,,,,,,2545
+id_4563,record,Choral,,,TBD,,,2546,,,,,,,,,LHSOM Library,,,,,,2546
+id_4564,record,Choral,,,TBD,,,2547,,,,,,,,,LHSOM Library,,,,,,2547
+id_4565,record,Choral,,,TBD,,,2548,,,,,,,,,LHSOM Library,,,,,,2548
+id_4566,record,Choral,,,TBD,,,2549,,,,,,,,,LHSOM Library,,,,,,2549
+id_4567,record,Choral,,,TBD,,,2550,,,,,,,,,LHSOM Library,,,,,,2550
+id_4568,record,Choral,,,TBD,,,2551,,,,,,,,,LHSOM Library,,,,,,2551
+id_4569,record,Choral,,,TBD,,,2552,,,,,,,,,LHSOM Library,,,,,,2552
+id_4570,record,Choral,,,TBD,,,2553,,,,,,,,,LHSOM Library,,,,,,2553
+id_4571,record,Choral,,,TBD,,,2554,,,,,,,,,LHSOM Library,,,,,,2554
+id_4572,record,Choral,,,TBD,,,2555,,,,,,,,,LHSOM Library,,,,,,2555
+id_4573,record,Choral,,,TBD,,,2556,,,,,,,,,LHSOM Library,,,,,,2556
+id_4574,record,Choral,,,TBD,,,2557,,,,,,,,,LHSOM Library,,,,,,2557
+id_4575,record,Choral,,,TBD,,,2558,,,,,,,,,LHSOM Library,,,,,,2558
+id_4576,record,Choral,,,TBD,,,2559,,,,,,,,,LHSOM Library,,,,,,2559
+id_4577,record,Choral,,,TBD,,,2560,,,,,,,,,LHSOM Library,,,,,,2560
+id_4578,record,Choral,,,TBD,,,2561,,,,,,,,,LHSOM Library,,,,,,2561
+id_4579,record,Choral,,,TBD,,,2562,,,,,,,,,LHSOM Library,,,,,,2562
+id_4580,record,Choral,,,TBD,,,2563,,,,,,,,,LHSOM Library,,,,,,2563
+id_4581,record,Choral,,,TBD,,,2564,,,,,,,,,LHSOM Library,,,,,,2564
+id_4582,record,Choral,,,TBD,,,2565,,,,,,,,,LHSOM Library,,,,,,2565
+id_4583,record,Choral,,,TBD,,,2566,,,,,,,,,LHSOM Library,,,,,,2566
+id_4584,record,Choral,,,TBD,,,2567,,,,,,,,,LHSOM Library,,,,,,2567
+id_4585,record,Choral,,,TBD,,,2568,,,,,,,,,LHSOM Library,,,,,,2568
+id_4586,record,Choral,,,TBD,,,2569,,,,,,,,,LHSOM Library,,,,,,2569
+id_4587,record,Choral,,,TBD,,,2570,,,,,,,,,LHSOM Library,,,,,,2570
+id_4588,record,Choral,,,TBD,,,2571,,,,,,,,,LHSOM Library,,,,,,2571
+id_4589,record,Choral,,,TBD,,,2572,,,,,,,,,LHSOM Library,,,,,,2572
+id_4590,record,Choral,,,TBD,,,2573,,,,,,,,,LHSOM Library,,,,,,2573
+id_4591,record,Choral,,,TBD,,,2574,,,,,,,,,LHSOM Library,,,,,,2574
+id_4592,record,Choral,,,TBD,,,2575,,,,,,,,,LHSOM Library,,,,,,2575
+id_4593,record,Choral,,,TBD,,,2576,,,,,,,,,LHSOM Library,,,,,,2576
+id_4594,record,Choral,,,TBD,,,2577,,,,,,,,,LHSOM Library,,,,,,2577
+id_4595,record,Choral,,,TBD,,,2578,,,,,,,,,LHSOM Library,,,,,,2578
+id_4596,record,Choral,,,TBD,,,2579,,,,,,,,,LHSOM Library,,,,,,2579
+id_4597,record,Choral,,,TBD,,,2580,,,,,,,,,LHSOM Library,,,,,,2580
+id_4598,record,Choral,,,TBD,,,2581,,,,,,,,,LHSOM Library,,,,,,2581
+id_4599,record,Choral,,,TBD,,,2582,,,,,,,,,LHSOM Library,,,,,,2582
+id_4600,record,Choral,,,TBD,,,2583,,,,,,,,,LHSOM Library,,,,,,2583
+id_4601,record,Choral,,,TBD,,,2584,,,,,,,,,LHSOM Library,,,,,,2584
+id_4602,record,Choral,,,TBD,,,2585,,,,,,,,,LHSOM Library,,,,,,2585
+id_4603,record,Choral,,,TBD,,,2586,,,,,,,,,LHSOM Library,,,,,,2586
+id_4604,record,Choral,,,TBD,,,2587,,,,,,,,,LHSOM Library,,,,,,2587
+id_4605,record,Choral,,,TBD,,,2588,,,,,,,,,LHSOM Library,,,,,,2588
+id_4606,record,Choral,,,TBD,,,2589,,,,,,,,,LHSOM Library,,,,,,2589
+id_4607,record,Choral,,,TBD,,,2590,,,,,,,,,LHSOM Library,,,,,,2590
+id_4608,record,Choral,,,TBD,,,2591,,,,,,,,,LHSOM Library,,,,,,2591
+id_4609,record,Choral,,,TBD,,,2592,,,,,,,,,LHSOM Library,,,,,,2592
+id_4610,record,Choral,,,TBD,,,2593,,,,,,,,,LHSOM Library,,,,,,2593
+id_4611,record,Choral,,,TBD,,,2594,,,,,,,,,LHSOM Library,,,,,,2594
+id_4612,record,Choral,,,TBD,,,2595,,,,,,,,,LHSOM Library,,,,,,2595
+id_4613,record,Choral,,,TBD,,,2596,,,,,,,,,LHSOM Library,,,,,,2596
+id_4614,record,Choral,,,TBD,,,2597,,,,,,,,,LHSOM Library,,,,,,2597
+id_4615,record,Choral,,,TBD,,,2598,,,,,,,,,LHSOM Library,,,,,,2598
+id_4616,record,Choral,,,TBD,,,2599,,,,,,,,,LHSOM Library,,,,,,2599
 id_4617,record,Choral,,Shaw-Bennett,"Many Moods of Christmas, Suite One",,,2640,105,,Lawson-Gould,,,,,,LHSOM Library,SATB,"Piano, orchestra",,,Extended Work,2640
 id_4618,record,Choral,,Shaw-Bennett,"Many Moods of Christmas, Suite Two",,,2641,12,,Lawson-Gould,,,,,,LHSOM Library,SATB,"Piano, orchestra",,,Extended Work,2641
 id_4619,record,Choral,,Hutchinson Family,The Bicentennial Musical Celebration (A Gift From JCPenney),,,2650,16,,No info,,,,,,LHSOM Library,SATB,Piano score included,,,"Collection, American Revolution Bicentennial",2650
-id_4620,record,Choral,,,TBD,,,,,,,,,,,,LHSOM Library,,,,,,
+id_4620,record,Choral,,,TBD,,,2657,,,,,,,,,LHSOM Library,,,,,,2657
 id_4621,record,Choral,,"Malin, Don",Choral Perspective,,,2660,3,,Marks Music,,,,,,LHSOM Library,SATB,A cappella,,,Compilation,2660
 id_4622,record,Choral,,"Bukvich, Dan",Sound of Music/West Side Story Medley,,,2667,130,,No info,,,,,,LHSOM Library,SATB,Orchestral parts included,,,Extended Work,2667
-id_4623,record,Choral,,Harris And Bessee,Here We Have Idaho,,,,,,Copies,,,,,,LHSOM Library,SATB,A cappella,,,,
-id_4624,record,Choral,,"Marcy, Kirk",Here We Have Idaho,,,,,,Copies,,,,,,LHSOM Library,SATB,A cappella,,,,
+id_4623,record,Choral,,Harris And Bessee,Here We Have Idaho,,,#13 Box of Idaho Songs,,,Copies,,,,,,LHSOM Library,SATB,A cappella,,,,#13 Box of Idaho Songs
+id_4624,record,Choral,,"Marcy, Kirk",Here We Have Idaho,,,#15 Box of Idaho Songs,,,Copies,,,,,,LHSOM Library,SATB,A cappella,,,,#15 Box of Idaho Songs
 id_4625,record,Choral,,"Ferrill, Kyle",Vandal Mash-up,,,#18 Box of Idaho Songs,7,,Copies,,,,,,LHSOM Library,TTBB,A cappella,,,,#18 Box of Idaho Songs
 id_4626,record,Choral,,"O'Donnel, J. M.",We're Here to Win,,,#2 Box of Idaho Songs,,,Photostat copy,,,,,,LHSOM Library,,Two envelopes,,,Folk-Idaho,#2 Box of Idaho Songs
 id_4627,record,Choral,,"O'Donnel, J. M.",Idaho Fair,,,#3 Box of Idaho Songs,15,,Photostat copy,,,,,,LHSOM Library,TTBB,,,,Idaho,#3 Box of Idaho Songs
 id_4628,record,Choral,,"Wilberg, Mack",I'll Ay Call In By Yon Town,,,1348,40,,Hinshaw Music,,,,,,LHSOM Library,SATB,4-hand piano,,,folk,1348
 id_4629,record,Choral,,"Scott, Tom",Shenandoah,,,1350,100,,Shawnee Press,,,,,,LHSOM Library,SATB,"Piano, bari solo",,,American folk,1350
-id_4630,record,Choral,,"Wilberg, Mack",Cindy,,,,,,Hinshaw Music,,,,,,LHSOM Library,SSAATTBB,,,,,
+id_4630,record,Choral,,"Wilberg, Mack",Cindy,,,1413,,,Hinshaw Music,,,,,,LHSOM Library,SSAATTBB,,,,,1413
 id_4631,record,Choral,,"Van, Jeffrey",El Rorro (The Babe),,,1429,50,,Plymouth Music,,,,,,LHSOM Library,SATB,Guitar,,,Mexican Christmas Carol,1429
 id_4632,record,Choral,,"Wilberg, Mack",Anthem of Peace,,,1511,27,,Hinshaw Music,,,,,,LHSOM Library,SATB-SATB,Brass and percussion,,,Estonian and American spiritual,1511
 id_4633,record,Choral,,"Parker, Alice",Goin' to Boston,,,1635,34,,Lawson-Gould/Darnir Bros,,,,,,LHSOM Library,SATB,"A cappella, hand clap",,,American folk,1635
 id_4634,record,Choral,,"Caldwell, Paul And Ivory, Sean",Ask the Watchman,,,1707,70,,Earthsongs,,,,,,LHSOM Library,SATB,"Djembe, claves",,,Spiritual,1707
-id_4635,record,Choral,,"Ginsberg, Neil","Bring a Torch, Jeanette Isabella",,,,,,Santa Barbara,,,,,,LHSOM Library,SATB,,,,Christmas,
+id_4635,record,Choral,,"Ginsberg, Neil","Bring a Torch, Jeanette Isabella",,,1751,,,Santa Barbara,,,,,,LHSOM Library,SATB,,,,Christmas,1751
 id_4636,record,Choral,,"Johnson, Ralph",The Hills are Bare at Bethlehem,,,1793,80,,Earthsongs,,,,,,LHSOM Library,SATB,"A cappella sop solo, wind chimes",,,,1793
 id_4637,record,Choral,,"Mooney, David",Derry Air (Danny Boy),,,1825,75,,ECS publishing,,,,,,LHSOM Library,SATB,Piano or harp,,,,1825
 id_4638,record,Choral,,"Mooney, David",Dulaman,,,1826,40,,ECS publishing,,,,,,LHSOM Library,SATB,Percussion,,,,1826
@@ -4642,8 +4642,8 @@ id_4640,record,Choral,,"Mooney, David",She Moved Through the Fair,,,1828,50,,ECS
 id_4641,record,Choral,,"Mooney, David",S i do Mhaimeo i,,,1829,40,,ECS publishing,,,,,,LHSOM Library,SATB,"A cappella, percussion",,,,1829
 id_4642,record,Choral,,"Nestor, Leo","Rise Up, Shepherd, and Follow",,,1838,100,,ECS publishing,,,,,,LHSOM Library,SATB,"SATB, oboe",,,Christmas,1838
 id_4643,record,Choral,,"Schlenker, Terry","O Come, O Come Emmanuel",,,1865,90,,Santa Barbara,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,1865
-id_4644,record,Choral,,"Shaw, Robert",Set Down Servant,,,,,,Shawnee Press,,,,,,LHSOM Library,SATB,,,,Spiritual,
-id_4645,record,Choral,,"Parker, Alice & Shaw, Robert",Wondrous Love,,,,,,Lawson-Gould,,,,,,LHSOM Library,SATB,,,,Southern Folk Song,
+id_4644,record,Choral,,"Shaw, Robert",Set Down Servant,,,1869,,,Shawnee Press,,,,,,LHSOM Library,SATB,,,,Spiritual,1869
+id_4645,record,Choral,,"Parker, Alice & Shaw, Robert",Wondrous Love,,,1870,,,Lawson-Gould,,,,,,LHSOM Library,SATB,,,,Southern Folk Song,1870
 id_4646,record,Choral,,"Fischer, Andrew",Bonse Aba (traditional Zambian song),,,1953,86,,Alliance Music,,,,,,LHSOM Library,SATB,"A cappella, percussion",,,,1953
 id_4647,record,Choral,,"Thomas, Andre J.",Here's A Pretty Little Baby,,,1988,75,,Earthsongs,,,,,,LHSOM Library,SATB,"Soli Synthesizer, steel drum, flute, percussion, and string bass",,,,1988
 id_4648,record,Choral,,"Buckvich, Dan",Soolaimon,,,1990,88,,Copies,,,,,,LHSOM Library,SATB,Rhythm section,,,Jazz,1990
@@ -4653,7 +4653,7 @@ id_4651,record,Choral,,Edenroth And Kallio,Nordic Polska,,,2080,23,,Walton,,,,,,
 id_4652,record,Choral,,"Shaw, Robert",Do-don't touch-a my garment,,,2092,20,,Schirmer,,,,,,LHSOM Library,TTBB,A cappella,,,,2092
 id_4653,record,Choral,,"Willcocks, David",Five Christmas Carols,,,2351,48,,Oxford,,,,,,LHSOM Library,SATB,A cappella,,,Christmas,2351
 id_4654,record,Choral,,Parker & Shaw,My Dancing Day,,,557,60,,Lawson-Gould,,,,,,LHSOM Library,SATB,"Old English, a cappella",,,Folk,557
-id_4655,record,Choral,,"Nightingale, Mae","Twelve Days of Christmas, The",,,,,,Carl Fischer,,,,,,LHSOM Library,SSATBB,,,,,
+id_4655,record,Choral,,"Nightingale, Mae","Twelve Days of Christmas, The",,,561,,,Carl Fischer,,,,,,LHSOM Library,SSATBB,,,,,561
 id_4656,record,Choral,,Shaw-Parker,God Rest You Merry Gentlement,,,708,30,,Lawson Gould,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Christmas,708
 id_4657,record,Choral,,Shaw-Parker/Wasner,God Rest You Merry Gentlemen,,,708,15,,G. Schirmer,,,,,,LHSOM Library,SATB,A cappella,,,Folk-Christmas,708
 id_4658,record,Choral,,Shaw-Parker,Johnny Has Gone For A Soldier,,,714,60,,Lawson Gould,,,,,,LHSOM Library,SATB,"A cappella, sop solo",,,Folk,714
